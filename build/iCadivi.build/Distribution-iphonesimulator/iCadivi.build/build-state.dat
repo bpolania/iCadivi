@@ -1,0 +1,1272 @@
+TiCadivi
+v7
+r0
+t311560221.614144
+cCheck dependencies
+cProcessInfoPlistFile /Users/Boris/Documents/iCadivi/build/Distribution-iphonesimulator/iCadivi.app/Info.plist iCadivi-Info.plist
+cCompileXIB /Users/Boris/Documents/iCadivi/MainWindow.xib
+cCompileXIB /Users/Boris/Documents/iCadivi/Classes/newCupo.xib
+cCompileXIB /Users/Boris/Documents/iCadivi/Classes/newExpense.xib
+cCompileXIB /Users/Boris/Documents/iCadivi/Classes/cupoView.xib
+cCompileXIB /Users/Boris/Documents/iCadivi/Classes/mainCuposView.xib
+cCompileXIB /Users/Boris/Documents/iCadivi/Classes/expenseDetail.xib
+cCompileXIB /Users/Boris/Documents/iCadivi/Classes/expense.xib
+cCpResource build/Distribution-iphonesimulator/iCadivi.app/Settings.bundle Classes/Settings.bundle
+cCompileXIB /Users/Boris/Documents/iCadivi/Classes/ayuda.xib
+cCompileXIB /Users/Boris/Documents/iCadivi/Classes/about.xib
+cCompileXIB /Users/Boris/Documents/iCadivi/Classes/ayudaViewController.xib
+cCompileXIB /Users/Boris/Documents/iCadivi/Classes/email.xib
+cCpResource build/Distribution-iphonesimulator/iCadivi.app/portada_icadivi.png portada_icadivi.png
+cCpResource build/Distribution-iphonesimulator/iCadivi.app/aceptar.png aceptar.png
+cCpResource build/Distribution-iphonesimulator/iCadivi.app/agregar.png agregar.png
+cCpResource build/Distribution-iphonesimulator/iCadivi.app/cmv_bg.png cmv_bg.png
+cCpResource build/Distribution-iphonesimulator/iCadivi.app/eliminar.png eliminar.png
+cCpResource build/Distribution-iphonesimulator/iCadivi.app/enviar.png enviar.png
+cCpResource build/Distribution-iphonesimulator/iCadivi.app/cancelar.png cancelar.png
+cCpResource build/Distribution-iphonesimulator/iCadivi.app/enviar_icon.png enviar_icon.png
+cCpResource build/Distribution-iphonesimulator/iCadivi.app/icadivi_tag_icon.png icadivi_tag_icon.png
+cCpResource build/Distribution-iphonesimulator/iCadivi.app/agregar_icon.png agregar_icon.png
+cCpResource build/Distribution-iphonesimulator/iCadivi.app/first_aid_icon.png first_aid_icon.png
+cCompileXIB /Users/Boris/Documents/iCadivi/Classes/manualTableViewController.xib
+cCompileXIB /Users/Boris/Documents/iCadivi/Classes/manualTextsViewController.xib
+cCpResource build/Distribution-iphonesimulator/iCadivi.app/iCadivi.png iCadivi.png
+cProcessPCH /var/folders/6+/6+2T2fk4H8mtlkHrBUzgTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iCadivi_Prefix-bqkbqthqgaxyoldtkittzkgysmrs/iCadivi_Prefix.pch.gch iCadivi_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cDataModelVersionCompile /Users/Boris/Documents/iCadivi/build/Distribution-iphonesimulator/iCadivi.app/iCadivi.momd /Users/Boris/Documents/iCadivi/iCadivi.xcdatamodeld
+cCompileC build/iCadivi.build/Distribution-iphonesimulator/iCadivi.build/Objects-normal/i386/main.o /Users/Boris/Documents/iCadivi/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iCadivi.build/Distribution-iphonesimulator/iCadivi.build/Objects-normal/i386/iCadiviAppDelegate.o /Users/Boris/Documents/iCadivi/Classes/iCadiviAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iCadivi.build/Distribution-iphonesimulator/iCadivi.build/Objects-normal/i386/newCupo.o /Users/Boris/Documents/iCadivi/Classes/newCupo.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iCadivi.build/Distribution-iphonesimulator/iCadivi.build/Objects-normal/i386/newExpense.o /Users/Boris/Documents/iCadivi/Classes/newExpense.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iCadivi.build/Distribution-iphonesimulator/iCadivi.build/Objects-normal/i386/cupoView.o /Users/Boris/Documents/iCadivi/Classes/cupoView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iCadivi.build/Distribution-iphonesimulator/iCadivi.build/Objects-normal/i386/mainCuposView.o /Users/Boris/Documents/iCadivi/Classes/mainCuposView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iCadivi.build/Distribution-iphonesimulator/iCadivi.build/Objects-normal/i386/expenseDetail.o /Users/Boris/Documents/iCadivi/Classes/expenseDetail.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iCadivi.build/Distribution-iphonesimulator/iCadivi.build/Objects-normal/i386/expense.o /Users/Boris/Documents/iCadivi/Classes/expense.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iCadivi.build/Distribution-iphonesimulator/iCadivi.build/Objects-normal/i386/gasto.o /Users/Boris/Documents/iCadivi/Classes/gasto.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iCadivi.build/Distribution-iphonesimulator/iCadivi.build/Objects-normal/i386/cupo.o /Users/Boris/Documents/iCadivi/Classes/cupo.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iCadivi.build/Distribution-iphonesimulator/iCadivi.build/Objects-normal/i386/ayuda.o /Users/Boris/Documents/iCadivi/Classes/ayuda.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iCadivi.build/Distribution-iphonesimulator/iCadivi.build/Objects-normal/i386/about.o /Users/Boris/Documents/iCadivi/Classes/about.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iCadivi.build/Distribution-iphonesimulator/iCadivi.build/Objects-normal/i386/ayudaViewController.o /Users/Boris/Documents/iCadivi/Classes/ayudaViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iCadivi.build/Distribution-iphonesimulator/iCadivi.build/Objects-normal/i386/email.o /Users/Boris/Documents/iCadivi/Classes/email.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iCadivi.build/Distribution-iphonesimulator/iCadivi.build/Objects-normal/i386/manualTableViewController.o /Users/Boris/Documents/iCadivi/Classes/manualTableViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iCadivi.build/Distribution-iphonesimulator/iCadivi.build/Objects-normal/i386/manualTextsViewController.o /Users/Boris/Documents/iCadivi/Classes/manualTextsViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/Boris/Documents/iCadivi/build/Distribution-iphonesimulator/iCadivi.app/iCadivi normal i386
+cGenerateDSYMFile /Users/Boris/Documents/iCadivi/build/Distribution-iphonesimulator/iCadivi.app.dSYM /Users/Boris/Documents/iCadivi/build/Distribution-iphonesimulator/iCadivi.app/iCadivi
+cTouch /Users/Boris/Documents/iCadivi/build/Distribution-iphonesimulator/iCadivi.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk
+c000000004C6C30170000000000000110
+t1282158615
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreData.framework/CoreData
+c000000004C5A4E0B00000000001D2EC0
+t1280986635
+s1912512
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreData.framework/Headers/CoreData.h
+c000000004C5A4DED000000000000046B
+t1280986605
+s1131
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004C5A4DB60000000000295900
+t1280986550
+s2709760
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004C5A4DB0000000000029D580
+t1280986544
+s2741632
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004C5A4DA10000000000001466
+t1280986529
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/MessageUI.framework/Headers/MFMailComposeViewController.h
+c000000004C5E1EEF00000000000028E4
+t1281236719
+s10468
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/MessageUI.framework/Headers/MessageUI.h
+c000000004C5E1EEF00000000000000CD
+t1281236719
+s205
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/MessageUI.framework/MessageUI
+c000000004C5E1EFD0000000000091C50
+t1281236733
+s597072
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C6241ED00000000000009CD
+t1281507821
+s2509
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C6242840000000001E228C0
+t1281507972
+s31598784
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/usr/include/Availability.h
+c000000004C57A0390000000000001A5C
+t1280811065
+s6748
+
+N/Developer/iOS SDK 4.1/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk
+c000000004C6C30170000000000000110
+t1282158615
+s272
+
+N/Developer/iOS SDK 4.1/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreData.framework/CoreData
+c000000004C5A4E0B00000000001D2EC0
+t1280986635
+s1912512
+
+N/Developer/iOS SDK 4.1/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreData.framework/Headers/CoreData.h
+c000000004C5A4DED000000000000046B
+t1280986605
+s1131
+
+N/Developer/iOS SDK 4.1/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004C5A4DB60000000000295900
+t1280986550
+s2709760
+
+N/Developer/iOS SDK 4.1/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004C5A4DB0000000000029D580
+t1280986544
+s2741632
+
+N/Developer/iOS SDK 4.1/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004C5A4DA10000000000001466
+t1280986529
+s5222
+
+N/Developer/iOS SDK 4.1/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/MessageUI.framework/Headers/MFMailComposeViewController.h
+c000000004C5E1EEF00000000000028E4
+t1281236719
+s10468
+
+N/Developer/iOS SDK 4.1/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/MessageUI.framework/Headers/MessageUI.h
+c000000004C5E1EEF00000000000000CD
+t1281236719
+s205
+
+N/Developer/iOS SDK 4.1/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/MessageUI.framework/MessageUI
+c000000004C5E1EFD0000000000091C50
+t1281236733
+s597072
+
+N/Developer/iOS SDK 4.1/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C6241ED00000000000009CD
+t1281507821
+s2509
+
+N/Developer/iOS SDK 4.1/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C6242840000000001E228C0
+t1281507972
+s31598784
+
+N/Developer/iOS SDK 4.1/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/usr/include/Availability.h
+c000000004C57A0390000000000001A5C
+t1280811065
+s6748
+
+N/Users/Boris/Documents/iCadivi/Classes/Settings.bundle
+c000000004CE142FA0000000000000088
+t1289831162
+s136
+
+N/Users/Boris/Documents/iCadivi/Classes/about.h
+c000000004CCDFD5A00000000000000D0
+t1288568154
+s208
+i<UIKit/UIKit.h>
+
+N/Users/Boris/Documents/iCadivi/Classes/about.m
+c000000004CCDFD5A000000000000057D
+t1288568154
+s1405
+i"about.h"
+
+N/Users/Boris/Documents/iCadivi/Classes/about.xib
+c000000004CDF8B6D0000000000005482
+t1289718637
+s21634
+
+N/Users/Boris/Documents/iCadivi/Classes/ayuda.h
+c000000004CDCB1B20000000000000139
+t1289531826
+s313
+i<UIKit/UIKit.h>
+
+N/Users/Boris/Documents/iCadivi/Classes/ayuda.m
+c000000004CE18C2D0000000000001491
+t1289849901
+s5265
+i"ayuda.h"
+i"about.h"
+i"manualTableViewController.h"
+
+N/Users/Boris/Documents/iCadivi/Classes/ayuda.xib
+c000000004CDE20A20000000000006088
+t1289625762
+s24712
+
+N/Users/Boris/Documents/iCadivi/Classes/ayudaViewController.h
+c000000004CDCB1B30000000000000176
+t1289531827
+s374
+i<UIKit/UIKit.h>
+
+N/Users/Boris/Documents/iCadivi/Classes/ayudaViewController.m
+c000000004CDF5F860000000000000622
+t1289707398
+s1570
+i"ayudaViewController.h"
+
+N/Users/Boris/Documents/iCadivi/Classes/ayudaViewController.xib
+c000000004CDCDE4A0000000000005978
+t1289543242
+s22904
+
+N/Users/Boris/Documents/iCadivi/Classes/cupo.h
+c000000004CA8976900000000000001D7
+t1286117225
+s471
+i<CoreData/CoreData.h>
+
+N/Users/Boris/Documents/iCadivi/Classes/cupo.m
+c000000004CA897690000000000000115
+t1286117225
+s277
+i"cupo.h"
+
+N/Users/Boris/Documents/iCadivi/Classes/cupoView.h
+c000000004CDF7E290000000000000516
+t1289715241
+s1302
+i<UIKit/UIKit.h>
+
+N/Users/Boris/Documents/iCadivi/Classes/cupoView.m
+c000000004CE1CCFA0000000000001E17
+t1289866490
+s7703
+i"expenseDetail.h"
+i"newExpense.h"
+i"newCupo.h"
+i"cupoView.h"
+i"mainCuposView.h"
+i"iCadiviAppDelegate.h"
+i"cupo.h"
+i"gasto.h"
+
+N/Users/Boris/Documents/iCadivi/Classes/cupoView.xib
+c000000004CDF8024000000000000F16E
+t1289715748
+s61806
+
+N/Users/Boris/Documents/iCadivi/Classes/email.h
+c000000004CE17AB200000000000003EB
+t1289845426
+s1003
+i<UIKit/UIKit.h>
+i<Foundation/Foundation.h>
+i<MessageUI/MessageUI.h>
+i<MessageUI/MFMailComposeViewController.h>
+
+N/Users/Boris/Documents/iCadivi/Classes/email.m
+c000000004CE17C240000000000005042
+t1289845796
+s20546
+i"email.h"
+i"iCadiviAppDelegate.h"
+i"cupo.h"
+i"gasto.h"
+
+N/Users/Boris/Documents/iCadivi/Classes/email.xib
+c000000004CE17A5A000000000000999A
+t1289845338
+s39322
+
+N/Users/Boris/Documents/iCadivi/Classes/expense.h
+c000000004CDCC27D00000000000003E3
+t1289536125
+s995
+i<UIKit/UIKit.h>
+
+N/Users/Boris/Documents/iCadivi/Classes/expense.m
+c000000004CE160E0000000000000247C
+t1289838816
+s9340
+i"expense.h"
+i"iCadiviAppDelegate.h"
+i"gasto.h"
+i"cupo.h"
+
+N/Users/Boris/Documents/iCadivi/Classes/expense.xib
+c000000004CDCC2BD0000000000008C93
+t1289536189
+s35987
+
+N/Users/Boris/Documents/iCadivi/Classes/expenseDetail.h
+c000000004CABF449000000000000014D
+t1286337609
+s333
+i<UIKit/UIKit.h>
+
+N/Users/Boris/Documents/iCadivi/Classes/expenseDetail.m
+c000000004CDF76480000000000001F17
+t1289713224
+s7959
+i"expenseDetail.h"
+i"gasto.h"
+i"cupo.h"
+i"iCadiviAppDelegate.h"
+i"expense.h"
+
+N/Users/Boris/Documents/iCadivi/Classes/expenseDetail.xib
+c000000004CABF45E0000000000004E3E
+t1286337630
+s20030
+
+N/Users/Boris/Documents/iCadivi/Classes/gasto.h
+c000000004CE14820000000000000028E
+t1289832480
+s654
+i<CoreData/CoreData.h>
+
+N/Users/Boris/Documents/iCadivi/Classes/gasto.m
+c000000004CA89769000000000000014F
+t1286117225
+s335
+i"gasto.h"
+
+N/Users/Boris/Documents/iCadivi/Classes/iCadiviAppDelegate.h
+c000000004CDF38CF00000000000006E3
+t1289697487
+s1763
+i<UIKit/UIKit.h>
+i<CoreData/CoreData.h>
+
+N/Users/Boris/Documents/iCadivi/Classes/iCadiviAppDelegate.m
+c000000004CDF635300000000000024EA
+t1289708371
+s9450
+i"iCadiviAppDelegate.h"
+i"mainCuposView.h"
+
+N/Users/Boris/Documents/iCadivi/Classes/mainCuposView.h
+c000000004CDB7B6A0000000000000315
+t1289452394
+s789
+i<UIKit/UIKit.h>
+
+N/Users/Boris/Documents/iCadivi/Classes/mainCuposView.m
+c000000004CE157400000000000001CA2
+t1289836352
+s7330
+i"mainCuposView.h"
+i"iCadiviAppDelegate.h"
+i"cupo.h"
+i"cupoView.h"
+
+N/Users/Boris/Documents/iCadivi/Classes/mainCuposView.xib
+c000000004CDB44E3000000000000C0F8
+t1289438435
+s49400
+
+N/Users/Boris/Documents/iCadivi/Classes/manualTableViewController.h
+c000000004CDE2A550000000000000164
+t1289628245
+s356
+i<UIKit/UIKit.h>
+
+N/Users/Boris/Documents/iCadivi/Classes/manualTableViewController.m
+c000000004CE182E70000000000001C7A
+t1289847527
+s7290
+i"manualTableViewController.h"
+i"iCadiviAppDelegate.h"
+i"manualTextsViewController.h"
+
+N/Users/Boris/Documents/iCadivi/Classes/manualTableViewController.xib
+c000000004CDE2CDD0000000000004B4F
+t1289628893
+s19279
+
+N/Users/Boris/Documents/iCadivi/Classes/manualTextsViewController.h
+c000000004CE183670000000000000884
+t1289847655
+s2180
+i<UIKit/UIKit.h>
+
+N/Users/Boris/Documents/iCadivi/Classes/manualTextsViewController.m
+c000000004CE18B9E0000000000003D2B
+t1289849758
+s15659
+i"manualTextsViewController.h"
+i"iCadiviAppDelegate.h"
+
+N/Users/Boris/Documents/iCadivi/Classes/manualTextsViewController.xib
+c000000004CE18BD2000000000000FD8E
+t1289849810
+s64910
+
+N/Users/Boris/Documents/iCadivi/Classes/newCupo.h
+c000000004CE14F0300000000000002FD
+t1289834243
+s765
+i<UIKit/UIKit.h>
+
+N/Users/Boris/Documents/iCadivi/Classes/newCupo.m
+c000000004CE15005000000000000122C
+t1289834501
+s4652
+i"cupo.h"
+i"gasto.h"
+i"newCupo.h"
+i"noCupoView.h"
+i"iCadiviAppDelegate.h"
+
+N/Users/Boris/Documents/iCadivi/Classes/newCupo.xib
+c000000004CDCC30D00000000000096E0
+t1289536269
+s38624
+
+N/Users/Boris/Documents/iCadivi/Classes/newExpense.h
+c000000004CBE49EB0000000000000A6D
+t1287539179
+s2669
+i<UIKit/UIKit.h>
+
+N/Users/Boris/Documents/iCadivi/Classes/newExpense.m
+c000000004CE160B100000000000036DF
+t1289838769
+s14047
+i"newExpense.h"
+i"gasto.h"
+i"cupo.h"
+i"mainCuposView.h"
+i"iCadiviAppDelegate.h"
+i"expenseDetail.h"
+i"cupoView.h"
+
+N/Users/Boris/Documents/iCadivi/Classes/newExpense.xib
+c000000004CE160520000000000012A9D
+t1289838674
+s76445
+
+N/Users/Boris/Documents/iCadivi/Classes/noCupoView.h
+c000000004C9FB76C00000000000001DD
+t1285535596
+s477
+i<UIKit/UIKit.h>
+
+N/Users/Boris/Documents/iCadivi/MainWindow.xib
+c000000004CDCD9A700000000000108B1
+t1289542055
+s67761
+
+N/Users/Boris/Documents/iCadivi/aceptar.png
+c000000004CDCBA400000000000000D06
+t1289534016
+s3334
+
+N/Users/Boris/Documents/iCadivi/agregar.png
+c000000004CDCBA430000000000000D49
+t1289534019
+s3401
+
+N/Users/Boris/Documents/iCadivi/agregar_icon.png
+c000000004A47F13C0000000000000F05
+t1246228796
+s3845
+
+N/Users/Boris/Documents/iCadivi/build/Distribution-iphonesimulator/iCadivi.app
+t1289867421
+s1122
+
+N/Users/Boris/Documents/iCadivi/build/Distribution-iphonesimulator/iCadivi.app.dSYM
+t1289866839
+s102
+
+N/Users/Boris/Documents/iCadivi/build/Distribution-iphonesimulator/iCadivi.app/Info.plist
+t1289867421
+s613
+
+N/Users/Boris/Documents/iCadivi/build/Distribution-iphonesimulator/iCadivi.app/MainWindow.nib
+t1289854080
+s4723
+
+N/Users/Boris/Documents/iCadivi/build/Distribution-iphonesimulator/iCadivi.app/PkgInfo
+t1289867421
+s8
+
+N/Users/Boris/Documents/iCadivi/build/Distribution-iphonesimulator/iCadivi.app/Settings.bundle
+t1289854081
+s136
+
+N/Users/Boris/Documents/iCadivi/build/Distribution-iphonesimulator/iCadivi.app/about.nib
+t1289854082
+s3574
+
+N/Users/Boris/Documents/iCadivi/build/Distribution-iphonesimulator/iCadivi.app/aceptar.png
+t1289854082
+s3334
+
+N/Users/Boris/Documents/iCadivi/build/Distribution-iphonesimulator/iCadivi.app/agregar.png
+t1289854082
+s3401
+
+N/Users/Boris/Documents/iCadivi/build/Distribution-iphonesimulator/iCadivi.app/agregar_icon.png
+t1289854082
+s3845
+
+N/Users/Boris/Documents/iCadivi/build/Distribution-iphonesimulator/iCadivi.app/ayuda.nib
+t1289854082
+s2516
+
+N/Users/Boris/Documents/iCadivi/build/Distribution-iphonesimulator/iCadivi.app/ayudaViewController.nib
+t1289854082
+s2346
+
+N/Users/Boris/Documents/iCadivi/build/Distribution-iphonesimulator/iCadivi.app/cancelar.png
+t1289854082
+s3273
+
+N/Users/Boris/Documents/iCadivi/build/Distribution-iphonesimulator/iCadivi.app/cmv_bg.png
+t1289854082
+s7700
+
+N/Users/Boris/Documents/iCadivi/build/Distribution-iphonesimulator/iCadivi.app/cupoView.nib
+t1289854080
+s7194
+
+N/Users/Boris/Documents/iCadivi/build/Distribution-iphonesimulator/iCadivi.app/eliminar.png
+t1289854082
+s3281
+
+N/Users/Boris/Documents/iCadivi/build/Distribution-iphonesimulator/iCadivi.app/email.nib
+t1289854083
+s6640
+
+N/Users/Boris/Documents/iCadivi/build/Distribution-iphonesimulator/iCadivi.app/enviar.png
+t1289854082
+s2904
+
+N/Users/Boris/Documents/iCadivi/build/Distribution-iphonesimulator/iCadivi.app/enviar_icon.png
+t1289854082
+s3002
+
+N/Users/Boris/Documents/iCadivi/build/Distribution-iphonesimulator/iCadivi.app/expense.nib
+t1289854082
+s5268
+
+N/Users/Boris/Documents/iCadivi/build/Distribution-iphonesimulator/iCadivi.app/expenseDetail.nib
+t1289854081
+s1535
+
+N/Users/Boris/Documents/iCadivi/build/Distribution-iphonesimulator/iCadivi.app/first_aid_icon.png
+t1289854082
+s368
+
+N/Users/Boris/Documents/iCadivi/build/Distribution-iphonesimulator/iCadivi.app/iCadivi
+t1289866839
+s167520
+
+N/Users/Boris/Documents/iCadivi/build/Distribution-iphonesimulator/iCadivi.app/iCadivi.momd
+t1289854085
+s136
+
+N/Users/Boris/Documents/iCadivi/build/Distribution-iphonesimulator/iCadivi.app/iCadivi.png
+t1289854083
+s9376
+
+N/Users/Boris/Documents/iCadivi/build/Distribution-iphonesimulator/iCadivi.app/icadivi_tag_icon.png
+t1289854082
+s418
+
+N/Users/Boris/Documents/iCadivi/build/Distribution-iphonesimulator/iCadivi.app/icon.png
+t1289854083
+s7227
+
+N/Users/Boris/Documents/iCadivi/build/Distribution-iphonesimulator/iCadivi.app/mainCuposView.nib
+t1289854081
+s2290
+
+N/Users/Boris/Documents/iCadivi/build/Distribution-iphonesimulator/iCadivi.app/manualTableViewController.nib
+t1289854083
+s1535
+
+N/Users/Boris/Documents/iCadivi/build/Distribution-iphonesimulator/iCadivi.app/manualTextsViewController.nib
+t1289854083
+s24323
+
+N/Users/Boris/Documents/iCadivi/build/Distribution-iphonesimulator/iCadivi.app/newCupo.nib
+t1289854080
+s6596
+
+N/Users/Boris/Documents/iCadivi/build/Distribution-iphonesimulator/iCadivi.app/newExpense.nib
+t1289854081
+s9602
+
+N/Users/Boris/Documents/iCadivi/build/Distribution-iphonesimulator/iCadivi.app/portada_icadivi.png
+t1289854082
+s29489
+
+N/Users/Boris/Documents/iCadivi/build/iCadivi.build/Distribution-iphonesimulator/iCadivi.build/Objects-normal/i386/about.o
+t1289854086
+s34248
+
+N/Users/Boris/Documents/iCadivi/build/iCadivi.build/Distribution-iphonesimulator/iCadivi.build/Objects-normal/i386/ayuda.o
+t1289854086
+s42472
+
+N/Users/Boris/Documents/iCadivi/build/iCadivi.build/Distribution-iphonesimulator/iCadivi.build/Objects-normal/i386/ayudaViewController.o
+t1289854086
+s38484
+
+N/Users/Boris/Documents/iCadivi/build/iCadivi.build/Distribution-iphonesimulator/iCadivi.build/Objects-normal/i386/cupo.o
+t1289854086
+s5344
+
+N/Users/Boris/Documents/iCadivi/build/iCadivi.build/Distribution-iphonesimulator/iCadivi.build/Objects-normal/i386/cupoView.o
+t1289866838
+s76592
+
+N/Users/Boris/Documents/iCadivi/build/iCadivi.build/Distribution-iphonesimulator/iCadivi.build/Objects-normal/i386/email.o
+t1289854087
+s91652
+
+N/Users/Boris/Documents/iCadivi/build/iCadivi.build/Distribution-iphonesimulator/iCadivi.build/Objects-normal/i386/expense.o
+t1289854086
+s83952
+
+N/Users/Boris/Documents/iCadivi/build/iCadivi.build/Distribution-iphonesimulator/iCadivi.build/Objects-normal/i386/expenseDetail.o
+t1289854086
+s62548
+
+N/Users/Boris/Documents/iCadivi/build/iCadivi.build/Distribution-iphonesimulator/iCadivi.build/Objects-normal/i386/gasto.o
+t1289854086
+s5484
+
+N/Users/Boris/Documents/iCadivi/build/iCadivi.build/Distribution-iphonesimulator/iCadivi.build/Objects-normal/i386/iCadivi.LinkFileList
+c000000004CE19C7F00000000000007FD
+t1289854079
+s2045
+
+N/Users/Boris/Documents/iCadivi/build/iCadivi.build/Distribution-iphonesimulator/iCadivi.build/Objects-normal/i386/iCadiviAppDelegate.o
+t1289854085
+s74280
+
+N/Users/Boris/Documents/iCadivi/build/iCadivi.build/Distribution-iphonesimulator/iCadivi.build/Objects-normal/i386/main.o
+t1289854085
+s6320
+
+N/Users/Boris/Documents/iCadivi/build/iCadivi.build/Distribution-iphonesimulator/iCadivi.build/Objects-normal/i386/mainCuposView.o
+t1289854086
+s69724
+
+N/Users/Boris/Documents/iCadivi/build/iCadivi.build/Distribution-iphonesimulator/iCadivi.build/Objects-normal/i386/manualTableViewController.o
+t1289854086
+s59104
+
+N/Users/Boris/Documents/iCadivi/build/iCadivi.build/Distribution-iphonesimulator/iCadivi.build/Objects-normal/i386/manualTextsViewController.o
+t1289854087
+s84308
+
+N/Users/Boris/Documents/iCadivi/build/iCadivi.build/Distribution-iphonesimulator/iCadivi.build/Objects-normal/i386/newCupo.o
+t1289854085
+s65808
+
+N/Users/Boris/Documents/iCadivi/build/iCadivi.build/Distribution-iphonesimulator/iCadivi.build/Objects-normal/i386/newExpense.o
+t1289854086
+s106812
+
+N/Users/Boris/Documents/iCadivi/cancelar.png
+c000000004CDCBEED0000000000000CC9
+t1289535213
+s3273
+
+N/Users/Boris/Documents/iCadivi/cmv_bg.png
+c000000004CDCBA460000000000001E14
+t1289534022
+s7700
+
+N/Users/Boris/Documents/iCadivi/eliminar.png
+c000000004CDCBA480000000000000CD1
+t1289534024
+s3281
+
+N/Users/Boris/Documents/iCadivi/enviar.png
+c000000004CDCBA4A0000000000000B58
+t1289534026
+s2904
+
+N/Users/Boris/Documents/iCadivi/enviar_icon.png
+c000000004CB898B80000000000000BBA
+t1287166136
+s3002
+
+N/Users/Boris/Documents/iCadivi/first_aid_icon.png
+c000000004AEF101F0000000000000170
+t1257181215
+s368
+
+N/Users/Boris/Documents/iCadivi/iCadivi.png
+c000000004CDF8AC500000000000024A0
+t1289718469
+s9376
+
+N/Users/Boris/Documents/iCadivi/iCadivi.xcdatamodeld
+c000000004CE142FA0000000000000088
+t1289831162
+s136
+
+N/Users/Boris/Documents/iCadivi/iCadivi_Prefix.pch
+c000000004C9E02F30000000000000162
+t1285423859
+s354
+i<Availability.h>
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+i<CoreData/CoreData.h>
+
+N/Users/Boris/Documents/iCadivi/icadivi_tag_icon.png
+c000000004CBBDE9200000000000001A2
+t1287380626
+s418
+
+N/Users/Boris/Documents/iCadivi/icon.png
+c000000004CE19C090000000000001C3B
+t1289853961
+s7227
+
+N/Users/Boris/Documents/iCadivi/main.m
+c000000004C9E02F3000000000000016A
+t1285423859
+s362
+i<UIKit/UIKit.h>
+
+N/Users/Boris/Documents/iCadivi/portada_icadivi.png
+c000000004CDB50590000000000007331
+t1289441369
+s29489
+
+N/var/folders/6+/6+2T2fk4H8mtlkHrBUzgTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iCadivi_Prefix-bqkbqthqgaxyoldtkittzkgysmrs/iCadivi_Prefix.pch.gch
+t1289854084
+s15744816
+
+N/var/folders/6+/6+2T2fk4H8mtlkHrBUzgTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iCadivi_Prefix-foqzhbmcpywbmnfweuymyamvxeob/iCadivi_Prefix.pch.gch
+t2
+s0
+
+NiCadivi-Info.plist
+c000000004CE1CB56000000000000036C
+t1289866070
+s876
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies311560221#311560221#0(0"0(0#1#0"8610489632#0"0#
+
+CCompileC build/iCadivi.build/Distribution-iphonesimulator/iCadivi.build/Objects-normal/i386/about.o /Users/Boris/Documents/iCadivi/Classes/about.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s311546886.532365
+e311546886.621850
+r1
+xCompileC
+xbuild/iCadivi.build/Distribution-iphonesimulator/iCadivi.build/Objects-normal/i386/about.o
+x/Users/Boris/Documents/iCadivi/Classes/about.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@54"Compile /Users/Boris/Documents/iCadivi/Classes/about.m311546886#311546886#0(0"0(0#0#46"/Users/Boris/Documents/iCadivi/Classes/about.m8613546784#2025"    cd /Users/Boris/Documents/iCadivi    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/iOS SDK 4.1/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/iOS SDK 4.1/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/iOS SDK 4.1/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2" -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot "/Developer/iOS SDK 4.1/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk" -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/Boris/Documents/iCadivi/build/iCadivi.build/Distribution-iphonesimulator/iCadivi.build/iCadivi-generated-files.hmap -I/Users/Boris/Documents/iCadivi/build/iCadivi.build/Distribution-iphonesimulator/iCadivi.build/iCadivi-own-target-headers.hmap -I/Users/Boris/Documents/iCadivi/build/iCadivi.build/Distribution-iphonesimulator/iCadivi.build/iCadivi-all-target-headers.hmap -iquote /Users/Boris/Documents/iCadivi/build/iCadivi.build/Distribution-iphonesimulator/iCadivi.build/iCadivi-project-headers.hmap -F/Users/Boris/Documents/iCadivi/build/Distribution-iphonesimulator -F/Users/Boris/Documents/iCadivi -I/Users/Boris/Documents/iCadivi/build/Distribution-iphonesimulator/include -I/Users/Boris/Documents/iCadivi/build/iCadivi.build/Distribution-iphonesimulator/iCadivi.build/DerivedSources/i386 -I/Users/Boris/Documents/iCadivi/build/iCadivi.build/Distribution-iphonesimulator/iCadivi.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/6+/6+2T2fk4H8mtlkHrBUzgTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iCadivi_Prefix-bqkbqthqgaxyoldtkittzkgysmrs/iCadivi_Prefix.pch -c /Users/Boris/Documents/iCadivi/Classes/about.m -o /Users/Boris/Documents/iCadivi/build/iCadivi.build/Distribution-iphonesimulator/iCadivi.build/Objects-normal/i386/about.o0#
+
+CCompileC build/iCadivi.build/Distribution-iphonesimulator/iCadivi.build/Objects-normal/i386/ayuda.o /Users/Boris/Documents/iCadivi/Classes/ayuda.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s311546886.401482
+e311546886.532252
+r1
+xCompileC
+xbuild/iCadivi.build/Distribution-iphonesimulator/iCadivi.build/Objects-normal/i386/ayuda.o
+x/Users/Boris/Documents/iCadivi/Classes/ayuda.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@54"Compile /Users/Boris/Documents/iCadivi/Classes/ayuda.m311546886#311546886#0(0"0(0#0#46"/Users/Boris/Documents/iCadivi/Classes/ayuda.m8614365888#2025"    cd /Users/Boris/Documents/iCadivi    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/iOS SDK 4.1/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/iOS SDK 4.1/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/iOS SDK 4.1/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2" -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot "/Developer/iOS SDK 4.1/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk" -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/Boris/Documents/iCadivi/build/iCadivi.build/Distribution-iphonesimulator/iCadivi.build/iCadivi-generated-files.hmap -I/Users/Boris/Documents/iCadivi/build/iCadivi.build/Distribution-iphonesimulator/iCadivi.build/iCadivi-own-target-headers.hmap -I/Users/Boris/Documents/iCadivi/build/iCadivi.build/Distribution-iphonesimulator/iCadivi.build/iCadivi-all-target-headers.hmap -iquote /Users/Boris/Documents/iCadivi/build/iCadivi.build/Distribution-iphonesimulator/iCadivi.build/iCadivi-project-headers.hmap -F/Users/Boris/Documents/iCadivi/build/Distribution-iphonesimulator -F/Users/Boris/Documents/iCadivi -I/Users/Boris/Documents/iCadivi/build/Distribution-iphonesimulator/include -I/Users/Boris/Documents/iCadivi/build/iCadivi.build/Distribution-iphonesimulator/iCadivi.build/DerivedSources/i386 -I/Users/Boris/Documents/iCadivi/build/iCadivi.build/Distribution-iphonesimulator/iCadivi.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/6+/6+2T2fk4H8mtlkHrBUzgTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iCadivi_Prefix-bqkbqthqgaxyoldtkittzkgysmrs/iCadivi_Prefix.pch -c /Users/Boris/Documents/iCadivi/Classes/ayuda.m -o /Users/Boris/Documents/iCadivi/build/iCadivi.build/Distribution-iphonesimulator/iCadivi.build/Objects-normal/i386/ayuda.o0#
+
+CCompileC build/iCadivi.build/Distribution-iphonesimulator/iCadivi.build/Objects-normal/i386/ayudaViewController.o /Users/Boris/Documents/iCadivi/Classes/ayudaViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s311546886.538245
+e311546886.645889
+r1
+xCompileC
+xbuild/iCadivi.build/Distribution-iphonesimulator/iCadivi.build/Objects-normal/i386/ayudaViewController.o
+x/Users/Boris/Documents/iCadivi/Classes/ayudaViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@68"Compile /Users/Boris/Documents/iCadivi/Classes/ayudaViewController.m311546886#311546886#0(0"0(0#0#60"/Users/Boris/Documents/iCadivi/Classes/ayudaViewController.m8613169120#2053"    cd /Users/Boris/Documents/iCadivi    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/iOS SDK 4.1/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/iOS SDK 4.1/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/iOS SDK 4.1/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2" -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot "/Developer/iOS SDK 4.1/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk" -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/Boris/Documents/iCadivi/build/iCadivi.build/Distribution-iphonesimulator/iCadivi.build/iCadivi-generated-files.hmap -I/Users/Boris/Documents/iCadivi/build/iCadivi.build/Distribution-iphonesimulator/iCadivi.build/iCadivi-own-target-headers.hmap -I/Users/Boris/Documents/iCadivi/build/iCadivi.build/Distribution-iphonesimulator/iCadivi.build/iCadivi-all-target-headers.hmap -iquote /Users/Boris/Documents/iCadivi/build/iCadivi.build/Distribution-iphonesimulator/iCadivi.build/iCadivi-project-headers.hmap -F/Users/Boris/Documents/iCadivi/build/Distribution-iphonesimulator -F/Users/Boris/Documents/iCadivi -I/Users/Boris/Documents/iCadivi/build/Distribution-iphonesimulator/include -I/Users/Boris/Documents/iCadivi/build/iCadivi.build/Distribution-iphonesimulator/iCadivi.build/DerivedSources/i386 -I/Users/Boris/Documents/iCadivi/build/iCadivi.build/Distribution-iphonesimulator/iCadivi.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/6+/6+2T2fk4H8mtlkHrBUzgTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iCadivi_Prefix-bqkbqthqgaxyoldtkittzkgysmrs/iCadivi_Prefix.pch -c /Users/Boris/Documents/iCadivi/Classes/ayudaViewController.m -o /Users/Boris/Documents/iCadivi/build/iCadivi.build/Distribution-iphonesimulator/iCadivi.build/Objects-normal/i386/ayudaViewController.o0#
+
+CCompileC build/iCadivi.build/Distribution-iphonesimulator/iCadivi.build/Objects-normal/i386/cupo.o /Users/Boris/Documents/iCadivi/Classes/cupo.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s311546886.339914
+e311546886.401371
+r1
+xCompileC
+xbuild/iCadivi.build/Distribution-iphonesimulator/iCadivi.build/Objects-normal/i386/cupo.o
+x/Users/Boris/Documents/iCadivi/Classes/cupo.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@53"Compile /Users/Boris/Documents/iCadivi/Classes/cupo.m311546886#311546886#0(0"0(0#0#45"/Users/Boris/Documents/iCadivi/Classes/cupo.m8612859104#2023"    cd /Users/Boris/Documents/iCadivi    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/iOS SDK 4.1/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/iOS SDK 4.1/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/iOS SDK 4.1/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2" -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot "/Developer/iOS SDK 4.1/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk" -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/Boris/Documents/iCadivi/build/iCadivi.build/Distribution-iphonesimulator/iCadivi.build/iCadivi-generated-files.hmap -I/Users/Boris/Documents/iCadivi/build/iCadivi.build/Distribution-iphonesimulator/iCadivi.build/iCadivi-own-target-headers.hmap -I/Users/Boris/Documents/iCadivi/build/iCadivi.build/Distribution-iphonesimulator/iCadivi.build/iCadivi-all-target-headers.hmap -iquote /Users/Boris/Documents/iCadivi/build/iCadivi.build/Distribution-iphonesimulator/iCadivi.build/iCadivi-project-headers.hmap -F/Users/Boris/Documents/iCadivi/build/Distribution-iphonesimulator -F/Users/Boris/Documents/iCadivi -I/Users/Boris/Documents/iCadivi/build/Distribution-iphonesimulator/include -I/Users/Boris/Documents/iCadivi/build/iCadivi.build/Distribution-iphonesimulator/iCadivi.build/DerivedSources/i386 -I/Users/Boris/Documents/iCadivi/build/iCadivi.build/Distribution-iphonesimulator/iCadivi.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/6+/6+2T2fk4H8mtlkHrBUzgTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iCadivi_Prefix-bqkbqthqgaxyoldtkittzkgysmrs/iCadivi_Prefix.pch -c /Users/Boris/Documents/iCadivi/Classes/cupo.m -o /Users/Boris/Documents/iCadivi/build/iCadivi.build/Distribution-iphonesimulator/iCadivi.build/Objects-normal/i386/cupo.o0#
+
+CCompileC build/iCadivi.build/Distribution-iphonesimulator/iCadivi.build/Objects-normal/i386/cupoView.o /Users/Boris/Documents/iCadivi/Classes/cupoView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s311559637.999011
+e311559639.034379
+r1
+xCompileC
+xbuild/iCadivi.build/Distribution-iphonesimulator/iCadivi.build/Objects-normal/i386/cupoView.o
+x/Users/Boris/Documents/iCadivi/Classes/cupoView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@57"Compile /Users/Boris/Documents/iCadivi/Classes/cupoView.m311559637#311559639#0(0"0(0#0#49"/Users/Boris/Documents/iCadivi/Classes/cupoView.m8621788928#2031"    cd /Users/Boris/Documents/iCadivi    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/iOS SDK 4.1/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/iOS SDK 4.1/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/iOS SDK 4.1/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2" -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot "/Developer/iOS SDK 4.1/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk" -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/Boris/Documents/iCadivi/build/iCadivi.build/Distribution-iphonesimulator/iCadivi.build/iCadivi-generated-files.hmap -I/Users/Boris/Documents/iCadivi/build/iCadivi.build/Distribution-iphonesimulator/iCadivi.build/iCadivi-own-target-headers.hmap -I/Users/Boris/Documents/iCadivi/build/iCadivi.build/Distribution-iphonesimulator/iCadivi.build/iCadivi-all-target-headers.hmap -iquote /Users/Boris/Documents/iCadivi/build/iCadivi.build/Distribution-iphonesimulator/iCadivi.build/iCadivi-project-headers.hmap -F/Users/Boris/Documents/iCadivi/build/Distribution-iphonesimulator -F/Users/Boris/Documents/iCadivi -I/Users/Boris/Documents/iCadivi/build/Distribution-iphonesimulator/include -I/Users/Boris/Documents/iCadivi/build/iCadivi.build/Distribution-iphonesimulator/iCadivi.build/DerivedSources/i386 -I/Users/Boris/Documents/iCadivi/build/iCadivi.build/Distribution-iphonesimulator/iCadivi.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/6+/6+2T2fk4H8mtlkHrBUzgTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iCadivi_Prefix-bqkbqthqgaxyoldtkittzkgysmrs/iCadivi_Prefix.pch -c /Users/Boris/Documents/iCadivi/Classes/cupoView.m -o /Users/Boris/Documents/iCadivi/build/iCadivi.build/Distribution-iphonesimulator/iCadivi.build/Objects-normal/i386/cupoView.o0#
+
+CCompileC build/iCadivi.build/Distribution-iphonesimulator/iCadivi.build/Objects-normal/i386/email.o /Users/Boris/Documents/iCadivi/Classes/email.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s311546886.622072
+e311546887.009594
+r1
+xCompileC
+xbuild/iCadivi.build/Distribution-iphonesimulator/iCadivi.build/Objects-normal/i386/email.o
+x/Users/Boris/Documents/iCadivi/Classes/email.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@54"Compile /Users/Boris/Documents/iCadivi/Classes/email.m311546886#311546887#0(0"0(0#0#46"/Users/Boris/Documents/iCadivi/Classes/email.m8613062688#2025"    cd /Users/Boris/Documents/iCadivi    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/iOS SDK 4.1/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/iOS SDK 4.1/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/iOS SDK 4.1/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2" -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot "/Developer/iOS SDK 4.1/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk" -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/Boris/Documents/iCadivi/build/iCadivi.build/Distribution-iphonesimulator/iCadivi.build/iCadivi-generated-files.hmap -I/Users/Boris/Documents/iCadivi/build/iCadivi.build/Distribution-iphonesimulator/iCadivi.build/iCadivi-own-target-headers.hmap -I/Users/Boris/Documents/iCadivi/build/iCadivi.build/Distribution-iphonesimulator/iCadivi.build/iCadivi-all-target-headers.hmap -iquote /Users/Boris/Documents/iCadivi/build/iCadivi.build/Distribution-iphonesimulator/iCadivi.build/iCadivi-project-headers.hmap -F/Users/Boris/Documents/iCadivi/build/Distribution-iphonesimulator -F/Users/Boris/Documents/iCadivi -I/Users/Boris/Documents/iCadivi/build/Distribution-iphonesimulator/include -I/Users/Boris/Documents/iCadivi/build/iCadivi.build/Distribution-iphonesimulator/iCadivi.build/DerivedSources/i386 -I/Users/Boris/Documents/iCadivi/build/iCadivi.build/Distribution-iphonesimulator/iCadivi.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/6+/6+2T2fk4H8mtlkHrBUzgTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iCadivi_Prefix-bqkbqthqgaxyoldtkittzkgysmrs/iCadivi_Prefix.pch -c /Users/Boris/Documents/iCadivi/Classes/email.m -o /Users/Boris/Documents/iCadivi/build/iCadivi.build/Distribution-iphonesimulator/iCadivi.build/Objects-normal/i386/email.o0#
+
+CCompileC build/iCadivi.build/Distribution-iphonesimulator/iCadivi.build/Objects-normal/i386/expense.o /Users/Boris/Documents/iCadivi/Classes/expense.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s311546886.084310
+e311546886.538139
+r1
+xCompileC
+xbuild/iCadivi.build/Distribution-iphonesimulator/iCadivi.build/Objects-normal/i386/expense.o
+x/Users/Boris/Documents/iCadivi/Classes/expense.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@56"Compile /Users/Boris/Documents/iCadivi/Classes/expense.m311546886#311546886#0(0"0(0#0#48"/Users/Boris/Documents/iCadivi/Classes/expense.m8613358688#2029"    cd /Users/Boris/Documents/iCadivi    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/iOS SDK 4.1/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/iOS SDK 4.1/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/iOS SDK 4.1/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2" -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot "/Developer/iOS SDK 4.1/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk" -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/Boris/Documents/iCadivi/build/iCadivi.build/Distribution-iphonesimulator/iCadivi.build/iCadivi-generated-files.hmap -I/Users/Boris/Documents/iCadivi/build/iCadivi.build/Distribution-iphonesimulator/iCadivi.build/iCadivi-own-target-headers.hmap -I/Users/Boris/Documents/iCadivi/build/iCadivi.build/Distribution-iphonesimulator/iCadivi.build/iCadivi-all-target-headers.hmap -iquote /Users/Boris/Documents/iCadivi/build/iCadivi.build/Distribution-iphonesimulator/iCadivi.build/iCadivi-project-headers.hmap -F/Users/Boris/Documents/iCadivi/build/Distribution-iphonesimulator -F/Users/Boris/Documents/iCadivi -I/Users/Boris/Documents/iCadivi/build/Distribution-iphonesimulator/include -I/Users/Boris/Documents/iCadivi/build/iCadivi.build/Distribution-iphonesimulator/iCadivi.build/DerivedSources/i386 -I/Users/Boris/Documents/iCadivi/build/iCadivi.build/Distribution-iphonesimulator/iCadivi.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/6+/6+2T2fk4H8mtlkHrBUzgTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iCadivi_Prefix-bqkbqthqgaxyoldtkittzkgysmrs/iCadivi_Prefix.pch -c /Users/Boris/Documents/iCadivi/Classes/expense.m -o /Users/Boris/Documents/iCadivi/build/iCadivi.build/Distribution-iphonesimulator/iCadivi.build/Objects-normal/i386/expense.o0#
+
+CCompileC build/iCadivi.build/Distribution-iphonesimulator/iCadivi.build/Objects-normal/i386/expenseDetail.o /Users/Boris/Documents/iCadivi/Classes/expenseDetail.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s311546886.073312
+e311546886.285272
+r1
+xCompileC
+xbuild/iCadivi.build/Distribution-iphonesimulator/iCadivi.build/Objects-normal/i386/expenseDetail.o
+x/Users/Boris/Documents/iCadivi/Classes/expenseDetail.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@62"Compile /Users/Boris/Documents/iCadivi/Classes/expenseDetail.m311546886#311546886#0(0"0(0#0#54"/Users/Boris/Documents/iCadivi/Classes/expenseDetail.m8613603872#2041"    cd /Users/Boris/Documents/iCadivi    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/iOS SDK 4.1/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/iOS SDK 4.1/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/iOS SDK 4.1/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2" -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot "/Developer/iOS SDK 4.1/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk" -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/Boris/Documents/iCadivi/build/iCadivi.build/Distribution-iphonesimulator/iCadivi.build/iCadivi-generated-files.hmap -I/Users/Boris/Documents/iCadivi/build/iCadivi.build/Distribution-iphonesimulator/iCadivi.build/iCadivi-own-target-headers.hmap -I/Users/Boris/Documents/iCadivi/build/iCadivi.build/Distribution-iphonesimulator/iCadivi.build/iCadivi-all-target-headers.hmap -iquote /Users/Boris/Documents/iCadivi/build/iCadivi.build/Distribution-iphonesimulator/iCadivi.build/iCadivi-project-headers.hmap -F/Users/Boris/Documents/iCadivi/build/Distribution-iphonesimulator -F/Users/Boris/Documents/iCadivi -I/Users/Boris/Documents/iCadivi/build/Distribution-iphonesimulator/include -I/Users/Boris/Documents/iCadivi/build/iCadivi.build/Distribution-iphonesimulator/iCadivi.build/DerivedSources/i386 -I/Users/Boris/Documents/iCadivi/build/iCadivi.build/Distribution-iphonesimulator/iCadivi.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/6+/6+2T2fk4H8mtlkHrBUzgTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iCadivi_Prefix-bqkbqthqgaxyoldtkittzkgysmrs/iCadivi_Prefix.pch -c /Users/Boris/Documents/iCadivi/Classes/expenseDetail.m -o /Users/Boris/Documents/iCadivi/build/iCadivi.build/Distribution-iphonesimulator/iCadivi.build/Objects-normal/i386/expenseDetail.o0#
+
+CCompileC build/iCadivi.build/Distribution-iphonesimulator/iCadivi.build/Objects-normal/i386/gasto.o /Users/Boris/Documents/iCadivi/Classes/gasto.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s311546886.285384
+e311546886.339807
+r1
+xCompileC
+xbuild/iCadivi.build/Distribution-iphonesimulator/iCadivi.build/Objects-normal/i386/gasto.o
+x/Users/Boris/Documents/iCadivi/Classes/gasto.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@54"Compile /Users/Boris/Documents/iCadivi/Classes/gasto.m311546886#311546886#0(0"0(0#0#46"/Users/Boris/Documents/iCadivi/Classes/gasto.m8612974976#2025"    cd /Users/Boris/Documents/iCadivi    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/iOS SDK 4.1/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/iOS SDK 4.1/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/iOS SDK 4.1/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2" -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot "/Developer/iOS SDK 4.1/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk" -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/Boris/Documents/iCadivi/build/iCadivi.build/Distribution-iphonesimulator/iCadivi.build/iCadivi-generated-files.hmap -I/Users/Boris/Documents/iCadivi/build/iCadivi.build/Distribution-iphonesimulator/iCadivi.build/iCadivi-own-target-headers.hmap -I/Users/Boris/Documents/iCadivi/build/iCadivi.build/Distribution-iphonesimulator/iCadivi.build/iCadivi-all-target-headers.hmap -iquote /Users/Boris/Documents/iCadivi/build/iCadivi.build/Distribution-iphonesimulator/iCadivi.build/iCadivi-project-headers.hmap -F/Users/Boris/Documents/iCadivi/build/Distribution-iphonesimulator -F/Users/Boris/Documents/iCadivi -I/Users/Boris/Documents/iCadivi/build/Distribution-iphonesimulator/include -I/Users/Boris/Documents/iCadivi/build/iCadivi.build/Distribution-iphonesimulator/iCadivi.build/DerivedSources/i386 -I/Users/Boris/Documents/iCadivi/build/iCadivi.build/Distribution-iphonesimulator/iCadivi.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/6+/6+2T2fk4H8mtlkHrBUzgTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iCadivi_Prefix-bqkbqthqgaxyoldtkittzkgysmrs/iCadivi_Prefix.pch -c /Users/Boris/Documents/iCadivi/Classes/gasto.m -o /Users/Boris/Documents/iCadivi/build/iCadivi.build/Distribution-iphonesimulator/iCadivi.build/Objects-normal/i386/gasto.o0#
+
+CCompileC build/iCadivi.build/Distribution-iphonesimulator/iCadivi.build/Objects-normal/i386/iCadiviAppDelegate.o /Users/Boris/Documents/iCadivi/Classes/iCadiviAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s311546885.108320
+e311546885.529875
+r1
+xCompileC
+xbuild/iCadivi.build/Distribution-iphonesimulator/iCadivi.build/Objects-normal/i386/iCadiviAppDelegate.o
+x/Users/Boris/Documents/iCadivi/Classes/iCadiviAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@67"Compile /Users/Boris/Documents/iCadivi/Classes/iCadiviAppDelegate.m311546885#311546885#0(0"0(0#0#59"/Users/Boris/Documents/iCadivi/Classes/iCadiviAppDelegate.m8612778912#2051"    cd /Users/Boris/Documents/iCadivi    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/iOS SDK 4.1/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/iOS SDK 4.1/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/iOS SDK 4.1/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2" -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot "/Developer/iOS SDK 4.1/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk" -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/Boris/Documents/iCadivi/build/iCadivi.build/Distribution-iphonesimulator/iCadivi.build/iCadivi-generated-files.hmap -I/Users/Boris/Documents/iCadivi/build/iCadivi.build/Distribution-iphonesimulator/iCadivi.build/iCadivi-own-target-headers.hmap -I/Users/Boris/Documents/iCadivi/build/iCadivi.build/Distribution-iphonesimulator/iCadivi.build/iCadivi-all-target-headers.hmap -iquote /Users/Boris/Documents/iCadivi/build/iCadivi.build/Distribution-iphonesimulator/iCadivi.build/iCadivi-project-headers.hmap -F/Users/Boris/Documents/iCadivi/build/Distribution-iphonesimulator -F/Users/Boris/Documents/iCadivi -I/Users/Boris/Documents/iCadivi/build/Distribution-iphonesimulator/include -I/Users/Boris/Documents/iCadivi/build/iCadivi.build/Distribution-iphonesimulator/iCadivi.build/DerivedSources/i386 -I/Users/Boris/Documents/iCadivi/build/iCadivi.build/Distribution-iphonesimulator/iCadivi.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/6+/6+2T2fk4H8mtlkHrBUzgTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iCadivi_Prefix-bqkbqthqgaxyoldtkittzkgysmrs/iCadivi_Prefix.pch -c /Users/Boris/Documents/iCadivi/Classes/iCadiviAppDelegate.m -o /Users/Boris/Documents/iCadivi/build/iCadivi.build/Distribution-iphonesimulator/iCadivi.build/Objects-normal/i386/iCadiviAppDelegate.o0#
+
+CCompileC build/iCadivi.build/Distribution-iphonesimulator/iCadivi.build/Objects-normal/i386/main.o /Users/Boris/Documents/iCadivi/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s311546885.050181
+e311546885.190976
+r1
+xCompileC
+xbuild/iCadivi.build/Distribution-iphonesimulator/iCadivi.build/Objects-normal/i386/main.o
+x/Users/Boris/Documents/iCadivi/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@45"Compile /Users/Boris/Documents/iCadivi/main.m311546885#311546885#0(0"0(0#0#37"/Users/Boris/Documents/iCadivi/main.m8612877792#2015"    cd /Users/Boris/Documents/iCadivi    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/iOS SDK 4.1/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/iOS SDK 4.1/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/iOS SDK 4.1/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2" -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot "/Developer/iOS SDK 4.1/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk" -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/Boris/Documents/iCadivi/build/iCadivi.build/Distribution-iphonesimulator/iCadivi.build/iCadivi-generated-files.hmap -I/Users/Boris/Documents/iCadivi/build/iCadivi.build/Distribution-iphonesimulator/iCadivi.build/iCadivi-own-target-headers.hmap -I/Users/Boris/Documents/iCadivi/build/iCadivi.build/Distribution-iphonesimulator/iCadivi.build/iCadivi-all-target-headers.hmap -iquote /Users/Boris/Documents/iCadivi/build/iCadivi.build/Distribution-iphonesimulator/iCadivi.build/iCadivi-project-headers.hmap -F/Users/Boris/Documents/iCadivi/build/Distribution-iphonesimulator -F/Users/Boris/Documents/iCadivi -I/Users/Boris/Documents/iCadivi/build/Distribution-iphonesimulator/include -I/Users/Boris/Documents/iCadivi/build/iCadivi.build/Distribution-iphonesimulator/iCadivi.build/DerivedSources/i386 -I/Users/Boris/Documents/iCadivi/build/iCadivi.build/Distribution-iphonesimulator/iCadivi.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/6+/6+2T2fk4H8mtlkHrBUzgTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iCadivi_Prefix-bqkbqthqgaxyoldtkittzkgysmrs/iCadivi_Prefix.pch -c /Users/Boris/Documents/iCadivi/main.m -o /Users/Boris/Documents/iCadivi/build/iCadivi.build/Distribution-iphonesimulator/iCadivi.build/Objects-normal/i386/main.o0#
+
+CCompileC build/iCadivi.build/Distribution-iphonesimulator/iCadivi.build/Objects-normal/i386/mainCuposView.o /Users/Boris/Documents/iCadivi/Classes/mainCuposView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s311546885.825294
+e311546886.073201
+r1
+xCompileC
+xbuild/iCadivi.build/Distribution-iphonesimulator/iCadivi.build/Objects-normal/i386/mainCuposView.o
+x/Users/Boris/Documents/iCadivi/Classes/mainCuposView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@62"Compile /Users/Boris/Documents/iCadivi/Classes/mainCuposView.m311546885#311546886#0(0"0(0#0#54"/Users/Boris/Documents/iCadivi/Classes/mainCuposView.m8613516288#2041"    cd /Users/Boris/Documents/iCadivi    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/iOS SDK 4.1/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/iOS SDK 4.1/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/iOS SDK 4.1/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2" -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot "/Developer/iOS SDK 4.1/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk" -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/Boris/Documents/iCadivi/build/iCadivi.build/Distribution-iphonesimulator/iCadivi.build/iCadivi-generated-files.hmap -I/Users/Boris/Documents/iCadivi/build/iCadivi.build/Distribution-iphonesimulator/iCadivi.build/iCadivi-own-target-headers.hmap -I/Users/Boris/Documents/iCadivi/build/iCadivi.build/Distribution-iphonesimulator/iCadivi.build/iCadivi-all-target-headers.hmap -iquote /Users/Boris/Documents/iCadivi/build/iCadivi.build/Distribution-iphonesimulator/iCadivi.build/iCadivi-project-headers.hmap -F/Users/Boris/Documents/iCadivi/build/Distribution-iphonesimulator -F/Users/Boris/Documents/iCadivi -I/Users/Boris/Documents/iCadivi/build/Distribution-iphonesimulator/include -I/Users/Boris/Documents/iCadivi/build/iCadivi.build/Distribution-iphonesimulator/iCadivi.build/DerivedSources/i386 -I/Users/Boris/Documents/iCadivi/build/iCadivi.build/Distribution-iphonesimulator/iCadivi.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/6+/6+2T2fk4H8mtlkHrBUzgTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iCadivi_Prefix-bqkbqthqgaxyoldtkittzkgysmrs/iCadivi_Prefix.pch -c /Users/Boris/Documents/iCadivi/Classes/mainCuposView.m -o /Users/Boris/Documents/iCadivi/build/iCadivi.build/Distribution-iphonesimulator/iCadivi.build/Objects-normal/i386/mainCuposView.o0#
+
+CCompileC build/iCadivi.build/Distribution-iphonesimulator/iCadivi.build/Objects-normal/i386/manualTableViewController.o /Users/Boris/Documents/iCadivi/Classes/manualTableViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s311546886.646003
+e311546886.809438
+r1
+xCompileC
+xbuild/iCadivi.build/Distribution-iphonesimulator/iCadivi.build/Objects-normal/i386/manualTableViewController.o
+x/Users/Boris/Documents/iCadivi/Classes/manualTableViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@74"Compile /Users/Boris/Documents/iCadivi/Classes/manualTableViewController.m311546886#311546886#0(0"0(0#0#66"/Users/Boris/Documents/iCadivi/Classes/manualTableViewController.m8612830336#2065"    cd /Users/Boris/Documents/iCadivi    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/iOS SDK 4.1/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/iOS SDK 4.1/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/iOS SDK 4.1/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2" -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot "/Developer/iOS SDK 4.1/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk" -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/Boris/Documents/iCadivi/build/iCadivi.build/Distribution-iphonesimulator/iCadivi.build/iCadivi-generated-files.hmap -I/Users/Boris/Documents/iCadivi/build/iCadivi.build/Distribution-iphonesimulator/iCadivi.build/iCadivi-own-target-headers.hmap -I/Users/Boris/Documents/iCadivi/build/iCadivi.build/Distribution-iphonesimulator/iCadivi.build/iCadivi-all-target-headers.hmap -iquote /Users/Boris/Documents/iCadivi/build/iCadivi.build/Distribution-iphonesimulator/iCadivi.build/iCadivi-project-headers.hmap -F/Users/Boris/Documents/iCadivi/build/Distribution-iphonesimulator -F/Users/Boris/Documents/iCadivi -I/Users/Boris/Documents/iCadivi/build/Distribution-iphonesimulator/include -I/Users/Boris/Documents/iCadivi/build/iCadivi.build/Distribution-iphonesimulator/iCadivi.build/DerivedSources/i386 -I/Users/Boris/Documents/iCadivi/build/iCadivi.build/Distribution-iphonesimulator/iCadivi.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/6+/6+2T2fk4H8mtlkHrBUzgTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iCadivi_Prefix-bqkbqthqgaxyoldtkittzkgysmrs/iCadivi_Prefix.pch -c /Users/Boris/Documents/iCadivi/Classes/manualTableViewController.m -o /Users/Boris/Documents/iCadivi/build/iCadivi.build/Distribution-iphonesimulator/iCadivi.build/Objects-normal/i386/manualTableViewController.o0#
+
+CCompileC build/iCadivi.build/Distribution-iphonesimulator/iCadivi.build/Objects-normal/i386/manualTextsViewController.o /Users/Boris/Documents/iCadivi/Classes/manualTextsViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s311546886.809545
+e311546887.543317
+r1
+xCompileC
+xbuild/iCadivi.build/Distribution-iphonesimulator/iCadivi.build/Objects-normal/i386/manualTextsViewController.o
+x/Users/Boris/Documents/iCadivi/Classes/manualTextsViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@74"Compile /Users/Boris/Documents/iCadivi/Classes/manualTextsViewController.m311546886#311546887#0(0"0(0#0#66"/Users/Boris/Documents/iCadivi/Classes/manualTextsViewController.m8612441792#2065"    cd /Users/Boris/Documents/iCadivi    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/iOS SDK 4.1/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/iOS SDK 4.1/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/iOS SDK 4.1/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2" -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot "/Developer/iOS SDK 4.1/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk" -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/Boris/Documents/iCadivi/build/iCadivi.build/Distribution-iphonesimulator/iCadivi.build/iCadivi-generated-files.hmap -I/Users/Boris/Documents/iCadivi/build/iCadivi.build/Distribution-iphonesimulator/iCadivi.build/iCadivi-own-target-headers.hmap -I/Users/Boris/Documents/iCadivi/build/iCadivi.build/Distribution-iphonesimulator/iCadivi.build/iCadivi-all-target-headers.hmap -iquote /Users/Boris/Documents/iCadivi/build/iCadivi.build/Distribution-iphonesimulator/iCadivi.build/iCadivi-project-headers.hmap -F/Users/Boris/Documents/iCadivi/build/Distribution-iphonesimulator -F/Users/Boris/Documents/iCadivi -I/Users/Boris/Documents/iCadivi/build/Distribution-iphonesimulator/include -I/Users/Boris/Documents/iCadivi/build/iCadivi.build/Distribution-iphonesimulator/iCadivi.build/DerivedSources/i386 -I/Users/Boris/Documents/iCadivi/build/iCadivi.build/Distribution-iphonesimulator/iCadivi.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/6+/6+2T2fk4H8mtlkHrBUzgTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iCadivi_Prefix-bqkbqthqgaxyoldtkittzkgysmrs/iCadivi_Prefix.pch -c /Users/Boris/Documents/iCadivi/Classes/manualTextsViewController.m -o /Users/Boris/Documents/iCadivi/build/iCadivi.build/Distribution-iphonesimulator/iCadivi.build/Objects-normal/i386/manualTextsViewController.o0#
+
+CCompileC build/iCadivi.build/Distribution-iphonesimulator/iCadivi.build/Objects-normal/i386/newCupo.o /Users/Boris/Documents/iCadivi/Classes/newCupo.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s311546885.191177
+e311546885.407881
+r1
+xCompileC
+xbuild/iCadivi.build/Distribution-iphonesimulator/iCadivi.build/Objects-normal/i386/newCupo.o
+x/Users/Boris/Documents/iCadivi/Classes/newCupo.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@56"Compile /Users/Boris/Documents/iCadivi/Classes/newCupo.m311546885#311546885#0(0"0(0#0#48"/Users/Boris/Documents/iCadivi/Classes/newCupo.m8612531872#2029"    cd /Users/Boris/Documents/iCadivi    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/iOS SDK 4.1/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/iOS SDK 4.1/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/iOS SDK 4.1/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2" -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot "/Developer/iOS SDK 4.1/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk" -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/Boris/Documents/iCadivi/build/iCadivi.build/Distribution-iphonesimulator/iCadivi.build/iCadivi-generated-files.hmap -I/Users/Boris/Documents/iCadivi/build/iCadivi.build/Distribution-iphonesimulator/iCadivi.build/iCadivi-own-target-headers.hmap -I/Users/Boris/Documents/iCadivi/build/iCadivi.build/Distribution-iphonesimulator/iCadivi.build/iCadivi-all-target-headers.hmap -iquote /Users/Boris/Documents/iCadivi/build/iCadivi.build/Distribution-iphonesimulator/iCadivi.build/iCadivi-project-headers.hmap -F/Users/Boris/Documents/iCadivi/build/Distribution-iphonesimulator -F/Users/Boris/Documents/iCadivi -I/Users/Boris/Documents/iCadivi/build/Distribution-iphonesimulator/include -I/Users/Boris/Documents/iCadivi/build/iCadivi.build/Distribution-iphonesimulator/iCadivi.build/DerivedSources/i386 -I/Users/Boris/Documents/iCadivi/build/iCadivi.build/Distribution-iphonesimulator/iCadivi.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/6+/6+2T2fk4H8mtlkHrBUzgTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iCadivi_Prefix-bqkbqthqgaxyoldtkittzkgysmrs/iCadivi_Prefix.pch -c /Users/Boris/Documents/iCadivi/Classes/newCupo.m -o /Users/Boris/Documents/iCadivi/build/iCadivi.build/Distribution-iphonesimulator/iCadivi.build/Objects-normal/i386/newCupo.o0#
+
+CCompileC build/iCadivi.build/Distribution-iphonesimulator/iCadivi.build/Objects-normal/i386/newExpense.o /Users/Boris/Documents/iCadivi/Classes/newExpense.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s311546885.407986
+e311546886.084205
+r1
+xCompileC
+xbuild/iCadivi.build/Distribution-iphonesimulator/iCadivi.build/Objects-normal/i386/newExpense.o
+x/Users/Boris/Documents/iCadivi/Classes/newExpense.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@59"Compile /Users/Boris/Documents/iCadivi/Classes/newExpense.m311546885#311546886#0(0"0(0#0#51"/Users/Boris/Documents/iCadivi/Classes/newExpense.m8614196672#2035"    cd /Users/Boris/Documents/iCadivi    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/iOS SDK 4.1/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/iOS SDK 4.1/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/iOS SDK 4.1/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2" -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot "/Developer/iOS SDK 4.1/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk" -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/Boris/Documents/iCadivi/build/iCadivi.build/Distribution-iphonesimulator/iCadivi.build/iCadivi-generated-files.hmap -I/Users/Boris/Documents/iCadivi/build/iCadivi.build/Distribution-iphonesimulator/iCadivi.build/iCadivi-own-target-headers.hmap -I/Users/Boris/Documents/iCadivi/build/iCadivi.build/Distribution-iphonesimulator/iCadivi.build/iCadivi-all-target-headers.hmap -iquote /Users/Boris/Documents/iCadivi/build/iCadivi.build/Distribution-iphonesimulator/iCadivi.build/iCadivi-project-headers.hmap -F/Users/Boris/Documents/iCadivi/build/Distribution-iphonesimulator -F/Users/Boris/Documents/iCadivi -I/Users/Boris/Documents/iCadivi/build/Distribution-iphonesimulator/include -I/Users/Boris/Documents/iCadivi/build/iCadivi.build/Distribution-iphonesimulator/iCadivi.build/DerivedSources/i386 -I/Users/Boris/Documents/iCadivi/build/iCadivi.build/Distribution-iphonesimulator/iCadivi.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/6+/6+2T2fk4H8mtlkHrBUzgTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iCadivi_Prefix-bqkbqthqgaxyoldtkittzkgysmrs/iCadivi_Prefix.pch -c /Users/Boris/Documents/iCadivi/Classes/newExpense.m -o /Users/Boris/Documents/iCadivi/build/iCadivi.build/Distribution-iphonesimulator/iCadivi.build/Objects-normal/i386/newExpense.o0#
+
+CCompileXIB /Users/Boris/Documents/iCadivi/Classes/about.xib
+s311546882.111680
+e311546882.555040
+r1
+xCompileXIB
+x/Users/Boris/Documents/iCadivi/Classes/about.xib
+lSLF07#2@28"CompileXIB Classes/about.xib311546882#311546882#0(0"0(0#0#48"/Users/Boris/Documents/iCadivi/Classes/about.xib8608886368#603"    cd /Users/Boris/Documents/iCadivi    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.1    setenv PATH "/Developer/iOS SDK 4.1/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/iOS SDK 4.1/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/iOS SDK 4.1/usr/bin/ibtool" --errors --warnings --notices --output-format human-readable-text --compile /Users/Boris/Documents/iCadivi/build/Distribution-iphonesimulator/iCadivi.app/about.nib /Users/Boris/Documents/iCadivi/Classes/about.xib --sdk "/Developer/iOS SDK 4.1/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk"0#
+
+CCompileXIB /Users/Boris/Documents/iCadivi/Classes/ayuda.xib
+s311546881.643497
+e311546882.111585
+r1
+xCompileXIB
+x/Users/Boris/Documents/iCadivi/Classes/ayuda.xib
+lSLF07#2@28"CompileXIB Classes/ayuda.xib311546881#311546882#0(0"0(0#0#48"/Users/Boris/Documents/iCadivi/Classes/ayuda.xib8606434240#603"    cd /Users/Boris/Documents/iCadivi    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.1    setenv PATH "/Developer/iOS SDK 4.1/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/iOS SDK 4.1/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/iOS SDK 4.1/usr/bin/ibtool" --errors --warnings --notices --output-format human-readable-text --compile /Users/Boris/Documents/iCadivi/build/Distribution-iphonesimulator/iCadivi.app/ayuda.nib /Users/Boris/Documents/iCadivi/Classes/ayuda.xib --sdk "/Developer/iOS SDK 4.1/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk"0#
+
+CCompileXIB /Users/Boris/Documents/iCadivi/Classes/ayudaViewController.xib
+s311546882.178535
+e311546882.628648
+r1
+xCompileXIB
+x/Users/Boris/Documents/iCadivi/Classes/ayudaViewController.xib
+lSLF07#2@42"CompileXIB Classes/ayudaViewController.xib311546882#311546882#0(0"0(0#0#62"/Users/Boris/Documents/iCadivi/Classes/ayudaViewController.xib8614660000#631"    cd /Users/Boris/Documents/iCadivi    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.1    setenv PATH "/Developer/iOS SDK 4.1/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/iOS SDK 4.1/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/iOS SDK 4.1/usr/bin/ibtool" --errors --warnings --notices --output-format human-readable-text --compile /Users/Boris/Documents/iCadivi/build/Distribution-iphonesimulator/iCadivi.app/ayudaViewController.nib /Users/Boris/Documents/iCadivi/Classes/ayudaViewController.xib --sdk "/Developer/iOS SDK 4.1/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk"0#
+
+CCompileXIB /Users/Boris/Documents/iCadivi/Classes/cupoView.xib
+s311546880.481440
+e311546881.102122
+r1
+xCompileXIB
+x/Users/Boris/Documents/iCadivi/Classes/cupoView.xib
+lSLF07#2@31"CompileXIB Classes/cupoView.xib311546880#311546881#0(0"0(0#0#51"/Users/Boris/Documents/iCadivi/Classes/cupoView.xib8612289376#609"    cd /Users/Boris/Documents/iCadivi    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.1    setenv PATH "/Developer/iOS SDK 4.1/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/iOS SDK 4.1/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/iOS SDK 4.1/usr/bin/ibtool" --errors --warnings --notices --output-format human-readable-text --compile /Users/Boris/Documents/iCadivi/build/Distribution-iphonesimulator/iCadivi.app/cupoView.nib /Users/Boris/Documents/iCadivi/Classes/cupoView.xib --sdk "/Developer/iOS SDK 4.1/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk"0#
+
+CCompileXIB /Users/Boris/Documents/iCadivi/Classes/email.xib
+s311546882.555139
+e311546883.226535
+r1
+xCompileXIB
+x/Users/Boris/Documents/iCadivi/Classes/email.xib
+lSLF07#2@28"CompileXIB Classes/email.xib311546882#311546883#0(0"0(0#0#48"/Users/Boris/Documents/iCadivi/Classes/email.xib8614328224#603"    cd /Users/Boris/Documents/iCadivi    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.1    setenv PATH "/Developer/iOS SDK 4.1/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/iOS SDK 4.1/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/iOS SDK 4.1/usr/bin/ibtool" --errors --warnings --notices --output-format human-readable-text --compile /Users/Boris/Documents/iCadivi/build/Distribution-iphonesimulator/iCadivi.app/email.nib /Users/Boris/Documents/iCadivi/Classes/email.xib --sdk "/Developer/iOS SDK 4.1/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk"0#
+
+CCompileXIB /Users/Boris/Documents/iCadivi/Classes/expense.xib
+s311546881.602536
+e311546882.178447
+r1
+xCompileXIB
+x/Users/Boris/Documents/iCadivi/Classes/expense.xib
+lSLF07#2@30"CompileXIB Classes/expense.xib311546881#311546882#0(0"0(0#0#50"/Users/Boris/Documents/iCadivi/Classes/expense.xib8608120704#607"    cd /Users/Boris/Documents/iCadivi    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.1    setenv PATH "/Developer/iOS SDK 4.1/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/iOS SDK 4.1/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/iOS SDK 4.1/usr/bin/ibtool" --errors --warnings --notices --output-format human-readable-text --compile /Users/Boris/Documents/iCadivi/build/Distribution-iphonesimulator/iCadivi.app/expense.nib /Users/Boris/Documents/iCadivi/Classes/expense.xib --sdk "/Developer/iOS SDK 4.1/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk"0#
+
+CCompileXIB /Users/Boris/Documents/iCadivi/Classes/expenseDetail.xib
+s311546881.200853
+e311546881.642268
+r1
+xCompileXIB
+x/Users/Boris/Documents/iCadivi/Classes/expenseDetail.xib
+lSLF07#2@36"CompileXIB Classes/expenseDetail.xib311546881#311546881#0(0"0(0#0#56"/Users/Boris/Documents/iCadivi/Classes/expenseDetail.xib8609364256#619"    cd /Users/Boris/Documents/iCadivi    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.1    setenv PATH "/Developer/iOS SDK 4.1/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/iOS SDK 4.1/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/iOS SDK 4.1/usr/bin/ibtool" --errors --warnings --notices --output-format human-readable-text --compile /Users/Boris/Documents/iCadivi/build/Distribution-iphonesimulator/iCadivi.app/expenseDetail.nib /Users/Boris/Documents/iCadivi/Classes/expenseDetail.xib --sdk "/Developer/iOS SDK 4.1/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk"0#
+
+CCompileXIB /Users/Boris/Documents/iCadivi/Classes/mainCuposView.xib
+s311546881.102219
+e311546881.602326
+r1
+xCompileXIB
+x/Users/Boris/Documents/iCadivi/Classes/mainCuposView.xib
+lSLF07#2@36"CompileXIB Classes/mainCuposView.xib311546881#311546881#0(0"0(0#0#56"/Users/Boris/Documents/iCadivi/Classes/mainCuposView.xib8614179232#619"    cd /Users/Boris/Documents/iCadivi    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.1    setenv PATH "/Developer/iOS SDK 4.1/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/iOS SDK 4.1/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/iOS SDK 4.1/usr/bin/ibtool" --errors --warnings --notices --output-format human-readable-text --compile /Users/Boris/Documents/iCadivi/build/Distribution-iphonesimulator/iCadivi.app/mainCuposView.nib /Users/Boris/Documents/iCadivi/Classes/mainCuposView.xib --sdk "/Developer/iOS SDK 4.1/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk"0#
+
+CCompileXIB /Users/Boris/Documents/iCadivi/Classes/manualTableViewController.xib
+s311546882.648157
+e311546883.043229
+r1
+xCompileXIB
+x/Users/Boris/Documents/iCadivi/Classes/manualTableViewController.xib
+lSLF07#2@48"CompileXIB Classes/manualTableViewController.xib311546882#311546883#0(0"0(0#0#68"/Users/Boris/Documents/iCadivi/Classes/manualTableViewController.xib8612651136#643"    cd /Users/Boris/Documents/iCadivi    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.1    setenv PATH "/Developer/iOS SDK 4.1/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/iOS SDK 4.1/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/iOS SDK 4.1/usr/bin/ibtool" --errors --warnings --notices --output-format human-readable-text --compile /Users/Boris/Documents/iCadivi/build/Distribution-iphonesimulator/iCadivi.app/manualTableViewController.nib /Users/Boris/Documents/iCadivi/Classes/manualTableViewController.xib --sdk "/Developer/iOS SDK 4.1/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk"0#
+
+CCompileXIB /Users/Boris/Documents/iCadivi/Classes/manualTextsViewController.xib
+s311546883.043333
+e311546883.640964
+r1
+xCompileXIB
+x/Users/Boris/Documents/iCadivi/Classes/manualTextsViewController.xib
+lSLF07#2@48"CompileXIB Classes/manualTextsViewController.xib311546883#311546883#0(0"0(0#0#68"/Users/Boris/Documents/iCadivi/Classes/manualTextsViewController.xib8612314912#643"    cd /Users/Boris/Documents/iCadivi    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.1    setenv PATH "/Developer/iOS SDK 4.1/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/iOS SDK 4.1/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/iOS SDK 4.1/usr/bin/ibtool" --errors --warnings --notices --output-format human-readable-text --compile /Users/Boris/Documents/iCadivi/build/Distribution-iphonesimulator/iCadivi.app/manualTextsViewController.nib /Users/Boris/Documents/iCadivi/Classes/manualTextsViewController.xib --sdk "/Developer/iOS SDK 4.1/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk"0#
+
+CCompileXIB /Users/Boris/Documents/iCadivi/Classes/newCupo.xib
+s311546879.802278
+e311546880.481346
+r1
+xCompileXIB
+x/Users/Boris/Documents/iCadivi/Classes/newCupo.xib
+lSLF07#2@30"CompileXIB Classes/newCupo.xib311546879#311546880#0(0"0(0#0#50"/Users/Boris/Documents/iCadivi/Classes/newCupo.xib8612173568#607"    cd /Users/Boris/Documents/iCadivi    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.1    setenv PATH "/Developer/iOS SDK 4.1/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/iOS SDK 4.1/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/iOS SDK 4.1/usr/bin/ibtool" --errors --warnings --notices --output-format human-readable-text --compile /Users/Boris/Documents/iCadivi/build/Distribution-iphonesimulator/iCadivi.app/newCupo.nib /Users/Boris/Documents/iCadivi/Classes/newCupo.xib --sdk "/Developer/iOS SDK 4.1/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk"0#
+
+CCompileXIB /Users/Boris/Documents/iCadivi/Classes/newExpense.xib
+s311546880.407061
+e311546881.200759
+r1
+xCompileXIB
+x/Users/Boris/Documents/iCadivi/Classes/newExpense.xib
+lSLF07#2@33"CompileXIB Classes/newExpense.xib311546880#311546881#0(0"0(0#0#53"/Users/Boris/Documents/iCadivi/Classes/newExpense.xib8612577824#613"    cd /Users/Boris/Documents/iCadivi    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.1    setenv PATH "/Developer/iOS SDK 4.1/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/iOS SDK 4.1/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/iOS SDK 4.1/usr/bin/ibtool" --errors --warnings --notices --output-format human-readable-text --compile /Users/Boris/Documents/iCadivi/build/Distribution-iphonesimulator/iCadivi.app/newExpense.nib /Users/Boris/Documents/iCadivi/Classes/newExpense.xib --sdk "/Developer/iOS SDK 4.1/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk"0#
+
+CCompileXIB /Users/Boris/Documents/iCadivi/MainWindow.xib
+s311546879.801313
+e311546880.406967
+r1
+xCompileXIB
+x/Users/Boris/Documents/iCadivi/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib311546879#311546880#0(0"0(0#0#45"/Users/Boris/Documents/iCadivi/MainWindow.xib8612435168#605"    cd /Users/Boris/Documents/iCadivi    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.1    setenv PATH "/Developer/iOS SDK 4.1/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/iOS SDK 4.1/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/iOS SDK 4.1/usr/bin/ibtool" --errors --warnings --notices --output-format human-readable-text --compile /Users/Boris/Documents/iCadivi/build/Distribution-iphonesimulator/iCadivi.app/MainWindow.nib /Users/Boris/Documents/iCadivi/MainWindow.xib --sdk "/Developer/iOS SDK 4.1/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk"0#
+
+CCpResource build/Distribution-iphonesimulator/iCadivi.app/Settings.bundle Classes/Settings.bundle
+s311546881.642366
+e311546881.649368
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/iCadivi.app/Settings.bundle
+xClasses/Settings.bundle
+lSLF07#2@28"Copy Classes/Settings.bundle311546881#311546881#0(0"0(0#0#54"/Users/Boris/Documents/iCadivi/Classes/Settings.bundle8612502656#509"    cd /Users/Boris/Documents/iCadivi    setenv PATH "/Developer/iOS SDK 4.1/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/iOS SDK 4.1/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/iOS SDK 4.1/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp" -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks /Users/Boris/Documents/iCadivi/Classes/Settings.bundle /Users/Boris/Documents/iCadivi/build/Distribution-iphonesimulator/iCadivi.app0#
+
+CCpResource build/Distribution-iphonesimulator/iCadivi.app/aceptar.png aceptar.png
+s311546882.629742
+e311546882.644430
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/iCadivi.app/aceptar.png
+xaceptar.png
+lSLF07#2@16"Copy aceptar.png311546882#311546882#0(0"0(0#0#42"/Users/Boris/Documents/iCadivi/aceptar.png8613934912#497"    cd /Users/Boris/Documents/iCadivi    setenv PATH "/Developer/iOS SDK 4.1/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/iOS SDK 4.1/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/iOS SDK 4.1/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp" -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks /Users/Boris/Documents/iCadivi/aceptar.png /Users/Boris/Documents/iCadivi/build/Distribution-iphonesimulator/iCadivi.app0#
+
+CCpResource build/Distribution-iphonesimulator/iCadivi.app/agregar.png agregar.png
+s311546882.631448
+e311546882.644551
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/iCadivi.app/agregar.png
+xagregar.png
+lSLF07#2@16"Copy agregar.png311546882#311546882#0(0"0(0#0#42"/Users/Boris/Documents/iCadivi/agregar.png8613815456#497"    cd /Users/Boris/Documents/iCadivi    setenv PATH "/Developer/iOS SDK 4.1/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/iOS SDK 4.1/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/iOS SDK 4.1/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp" -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks /Users/Boris/Documents/iCadivi/agregar.png /Users/Boris/Documents/iCadivi/build/Distribution-iphonesimulator/iCadivi.app0#
+
+CCpResource build/Distribution-iphonesimulator/iCadivi.app/agregar_icon.png agregar_icon.png
+s311546882.644625
+e311546882.663497
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/iCadivi.app/agregar_icon.png
+xagregar_icon.png
+lSLF07#2@21"Copy agregar_icon.png311546882#311546882#0(0"0(0#0#47"/Users/Boris/Documents/iCadivi/agregar_icon.png8612823552#502"    cd /Users/Boris/Documents/iCadivi    setenv PATH "/Developer/iOS SDK 4.1/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/iOS SDK 4.1/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/iOS SDK 4.1/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp" -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks /Users/Boris/Documents/iCadivi/agregar_icon.png /Users/Boris/Documents/iCadivi/build/Distribution-iphonesimulator/iCadivi.app0#
+
+CCpResource build/Distribution-iphonesimulator/iCadivi.app/cancelar.png cancelar.png
+s311546882.638738
+e311546882.652763
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/iCadivi.app/cancelar.png
+xcancelar.png
+lSLF07#2@17"Copy cancelar.png311546882#311546882#0(0"0(0#0#43"/Users/Boris/Documents/iCadivi/cancelar.png8613124768#498"    cd /Users/Boris/Documents/iCadivi    setenv PATH "/Developer/iOS SDK 4.1/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/iOS SDK 4.1/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/iOS SDK 4.1/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp" -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks /Users/Boris/Documents/iCadivi/cancelar.png /Users/Boris/Documents/iCadivi/build/Distribution-iphonesimulator/iCadivi.app0#
+
+CCpResource build/Distribution-iphonesimulator/iCadivi.app/cmv_bg.png cmv_bg.png
+s311546882.633401
+e311546882.650198
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/iCadivi.app/cmv_bg.png
+xcmv_bg.png
+lSLF07#2@15"Copy cmv_bg.png311546882#311546882#0(0"0(0#0#41"/Users/Boris/Documents/iCadivi/cmv_bg.png8613516032#496"    cd /Users/Boris/Documents/iCadivi    setenv PATH "/Developer/iOS SDK 4.1/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/iOS SDK 4.1/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/iOS SDK 4.1/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp" -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks /Users/Boris/Documents/iCadivi/cmv_bg.png /Users/Boris/Documents/iCadivi/build/Distribution-iphonesimulator/iCadivi.app0#
+
+CCpResource build/Distribution-iphonesimulator/iCadivi.app/eliminar.png eliminar.png
+s311546882.635177
+e311546882.650331
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/iCadivi.app/eliminar.png
+xeliminar.png
+lSLF07#2@17"Copy eliminar.png311546882#311546882#0(0"0(0#0#43"/Users/Boris/Documents/iCadivi/eliminar.png8613392864#498"    cd /Users/Boris/Documents/iCadivi    setenv PATH "/Developer/iOS SDK 4.1/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/iOS SDK 4.1/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/iOS SDK 4.1/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp" -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks /Users/Boris/Documents/iCadivi/eliminar.png /Users/Boris/Documents/iCadivi/build/Distribution-iphonesimulator/iCadivi.app0#
+
+CCpResource build/Distribution-iphonesimulator/iCadivi.app/enviar.png enviar.png
+s311546882.636970
+e311546882.654452
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/iCadivi.app/enviar.png
+xenviar.png
+lSLF07#2@15"Copy enviar.png311546882#311546882#0(0"0(0#0#41"/Users/Boris/Documents/iCadivi/enviar.png8613211168#496"    cd /Users/Boris/Documents/iCadivi    setenv PATH "/Developer/iOS SDK 4.1/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/iOS SDK 4.1/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/iOS SDK 4.1/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp" -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks /Users/Boris/Documents/iCadivi/enviar.png /Users/Boris/Documents/iCadivi/build/Distribution-iphonesimulator/iCadivi.app0#
+
+CCpResource build/Distribution-iphonesimulator/iCadivi.app/enviar_icon.png enviar_icon.png
+s311546882.640556
+e311546882.655941
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/iCadivi.app/enviar_icon.png
+xenviar_icon.png
+lSLF07#2@20"Copy enviar_icon.png311546882#311546882#0(0"0(0#0#46"/Users/Boris/Documents/iCadivi/enviar_icon.png8612934144#501"    cd /Users/Boris/Documents/iCadivi    setenv PATH "/Developer/iOS SDK 4.1/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/iOS SDK 4.1/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/iOS SDK 4.1/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp" -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks /Users/Boris/Documents/iCadivi/enviar_icon.png /Users/Boris/Documents/iCadivi/build/Distribution-iphonesimulator/iCadivi.app0#
+
+CCpResource build/Distribution-iphonesimulator/iCadivi.app/first_aid_icon.png first_aid_icon.png
+s311546882.646355
+e311546882.660816
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/iCadivi.app/first_aid_icon.png
+xfirst_aid_icon.png
+lSLF07#2@23"Copy first_aid_icon.png311546882#311546882#0(0"0(0#0#49"/Users/Boris/Documents/iCadivi/first_aid_icon.png8612767136#504"    cd /Users/Boris/Documents/iCadivi    setenv PATH "/Developer/iOS SDK 4.1/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/iOS SDK 4.1/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/iOS SDK 4.1/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp" -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks /Users/Boris/Documents/iCadivi/first_aid_icon.png /Users/Boris/Documents/iCadivi/build/Distribution-iphonesimulator/iCadivi.app0#
+
+CCpResource build/Distribution-iphonesimulator/iCadivi.app/iCadivi.png iCadivi.png
+s311546883.226731
+e311546883.232414
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/iCadivi.app/iCadivi.png
+xiCadivi.png
+lSLF07#2@16"Copy iCadivi.png311546883#311546883#0(0"0(0#0#42"/Users/Boris/Documents/iCadivi/iCadivi.png8614438112#497"    cd /Users/Boris/Documents/iCadivi    setenv PATH "/Developer/iOS SDK 4.1/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/iOS SDK 4.1/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/iOS SDK 4.1/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp" -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks /Users/Boris/Documents/iCadivi/iCadivi.png /Users/Boris/Documents/iCadivi/build/Distribution-iphonesimulator/iCadivi.app0#
+
+CCpResource build/Distribution-iphonesimulator/iCadivi.app/icadivi_tag_icon.png icadivi_tag_icon.png
+s311546882.642310
+e311546882.658830
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/iCadivi.app/icadivi_tag_icon.png
+xicadivi_tag_icon.png
+lSLF07#2@25"Copy icadivi_tag_icon.png311546882#311546882#0(0"0(0#0#51"/Users/Boris/Documents/iCadivi/icadivi_tag_icon.png8612883136#506"    cd /Users/Boris/Documents/iCadivi    setenv PATH "/Developer/iOS SDK 4.1/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/iOS SDK 4.1/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/iOS SDK 4.1/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp" -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks /Users/Boris/Documents/iCadivi/icadivi_tag_icon.png /Users/Boris/Documents/iCadivi/build/Distribution-iphonesimulator/iCadivi.app0#
+
+CCpResource build/Distribution-iphonesimulator/iCadivi.app/icon.png icon.png
+s311546883.227565
+e311546883.233501
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/iCadivi.app/icon.png
+xicon.png
+lSLF07#2@13"Copy icon.png311546883#311546883#0(0"0(0#0#39"/Users/Boris/Documents/iCadivi/icon.png8614220832#494"    cd /Users/Boris/Documents/iCadivi    setenv PATH "/Developer/iOS SDK 4.1/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/iOS SDK 4.1/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/iOS SDK 4.1/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp" -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks /Users/Boris/Documents/iCadivi/icon.png /Users/Boris/Documents/iCadivi/build/Distribution-iphonesimulator/iCadivi.app0#
+
+CCpResource build/Distribution-iphonesimulator/iCadivi.app/portada_icadivi.png portada_icadivi.png
+s311546882.628745
+e311546882.644298
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/iCadivi.app/portada_icadivi.png
+xportada_icadivi.png
+lSLF07#2@24"Copy portada_icadivi.png311546882#311546882#0(0"0(0#0#50"/Users/Boris/Documents/iCadivi/portada_icadivi.png8614161024#505"    cd /Users/Boris/Documents/iCadivi    setenv PATH "/Developer/iOS SDK 4.1/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/iOS SDK 4.1/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/iOS SDK 4.1/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp" -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks /Users/Boris/Documents/iCadivi/portada_icadivi.png /Users/Boris/Documents/iCadivi/build/Distribution-iphonesimulator/iCadivi.app0#
+
+CDataModelVersionCompile /Users/Boris/Documents/iCadivi/build/Distribution-iphonesimulator/iCadivi.app/iCadivi.momd /Users/Boris/Documents/iCadivi/iCadivi.xcdatamodeld
+s311546885.049197
+e311546885.108197
+r1
+xDataModelVersionCompile
+x/Users/Boris/Documents/iCadivi/build/Distribution-iphonesimulator/iCadivi.app/iCadivi.momd
+x/Users/Boris/Documents/iCadivi/iCadivi.xcdatamodeld
+lSLF07#2@104"DataModelVersionCompile build/Distribution-iphonesimulator/iCadivi.app/iCadivi.momd iCadivi.xcdatamodeld311546885#311546885#0(0"0(0#0#51"/Users/Boris/Documents/iCadivi/iCadivi.xcdatamodeld8612910624#407"    cd /Users/Boris/Documents/iCadivi    setenv PATH "/Developer/iOS SDK 4.1/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/iOS SDK 4.1/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/iOS SDK 4.1/usr/bin/momc" -XD_MOMC_TARGET_VERSION=10.6 /Users/Boris/Documents/iCadivi/iCadivi.xcdatamodeld /Users/Boris/Documents/iCadivi/build/Distribution-iphonesimulator/iCadivi.app/iCadivi.momd0#
+
+CGenerateDSYMFile /Users/Boris/Documents/iCadivi/build/Distribution-iphonesimulator/iCadivi.app.dSYM /Users/Boris/Documents/iCadivi/build/Distribution-iphonesimulator/iCadivi.app/iCadivi
+s311559639.177094
+e311559639.283544
+r1
+xGenerateDSYMFile
+x/Users/Boris/Documents/iCadivi/build/Distribution-iphonesimulator/iCadivi.app.dSYM
+x/Users/Boris/Documents/iCadivi/build/Distribution-iphonesimulator/iCadivi.app/iCadivi
+lSLF07#2@123"GenerateDSYMFile build/Distribution-iphonesimulator/iCadivi.app.dSYM build/Distribution-iphonesimulator/iCadivi.app/iCadivi311559639#311559639#0(0"0(0#0#85"/Users/Boris/Documents/iCadivi/build/Distribution-iphonesimulator/iCadivi.app/iCadivi8622659424#411"    cd /Users/Boris/Documents/iCadivi    setenv PATH "/Developer/iOS SDK 4.1/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/iOS SDK 4.1/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/iOS SDK 4.1/usr/bin/dsymutil" /Users/Boris/Documents/iCadivi/build/Distribution-iphonesimulator/iCadivi.app/iCadivi -o /Users/Boris/Documents/iCadivi/build/Distribution-iphonesimulator/iCadivi.app.dSYM0#
+
+CLd /Users/Boris/Documents/iCadivi/build/Distribution-iphonesimulator/iCadivi.app/iCadivi normal i386
+s311559639.034492
+e311559639.176981
+r1
+xLd
+x/Users/Boris/Documents/iCadivi/build/Distribution-iphonesimulator/iCadivi.app/iCadivi
+xnormal
+xi386
+lSLF07#2@90"Link /Users/Boris/Documents/iCadivi/build/Distribution-iphonesimulator/iCadivi.app/iCadivi311559639#311559639#0(0"0(0#0#0"8624528448#1014"    cd /Users/Boris/Documents/iCadivi    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/iOS SDK 4.1/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/iOS SDK 4.1/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/iOS SDK 4.1/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2" -arch i386 -isysroot "/Developer/iOS SDK 4.1/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk" -L/Users/Boris/Documents/iCadivi/build/Distribution-iphonesimulator -F/Users/Boris/Documents/iCadivi/build/Distribution-iphonesimulator -F/Users/Boris/Documents/iCadivi -filelist /Users/Boris/Documents/iCadivi/build/iCadivi.build/Distribution-iphonesimulator/iCadivi.build/Objects-normal/i386/iCadivi.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -framework CoreData -framework MessageUI -o /Users/Boris/Documents/iCadivi/build/Distribution-iphonesimulator/iCadivi.app/iCadivi0#
+
+CProcessInfoPlistFile /Users/Boris/Documents/iCadivi/build/Distribution-iphonesimulator/iCadivi.app/Info.plist iCadivi-Info.plist
+s311560221.574075
+e311560221.607903
+r1
+xProcessInfoPlistFile
+x/Users/Boris/Documents/iCadivi/build/Distribution-iphonesimulator/iCadivi.app/Info.plist
+xiCadivi-Info.plist
+lSLF07#2@26"Process iCadivi-Info.plist311560221#311560221#0(0"0(0#0#49"/Users/Boris/Documents/iCadivi/iCadivi-Info.plist30962724186357872#493"    cd /Users/Boris/Documents/iCadivi    setenv PATH "/Developer/iOS SDK 4.1/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/iOS SDK 4.1/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility iCadivi-Info.plist -genpkginfo /Users/Boris/Documents/iCadivi/build/Distribution-iphonesimulator/iCadivi.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/Boris/Documents/iCadivi/build/Distribution-iphonesimulator/iCadivi.app/Info.plist0#
+
+CProcessPCH /var/folders/6+/6+2T2fk4H8mtlkHrBUzgTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iCadivi_Prefix-bqkbqthqgaxyoldtkittzkgysmrs/iCadivi_Prefix.pch.gch iCadivi_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s311546883.641100
+e311546885.049027
+r1
+xProcessPCH
+x/var/folders/6+/6+2T2fk4H8mtlkHrBUzgTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iCadivi_Prefix-bqkbqthqgaxyoldtkittzkgysmrs/iCadivi_Prefix.pch.gch
+xiCadivi_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@29"Precompile iCadivi_Prefix.pch311546883#311546885#0(0"0(0#0#49"/Users/Boris/Documents/iCadivi/iCadivi_Prefix.pch8613594848#1908"    cd /Users/Boris/Documents/iCadivi    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/iOS SDK 4.1/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/iOS SDK 4.1/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/iOS SDK 4.1/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2" -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot "/Developer/iOS SDK 4.1/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk" -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/Boris/Documents/iCadivi/build/iCadivi.build/Distribution-iphonesimulator/iCadivi.build/iCadivi-generated-files.hmap -I/Users/Boris/Documents/iCadivi/build/iCadivi.build/Distribution-iphonesimulator/iCadivi.build/iCadivi-own-target-headers.hmap -I/Users/Boris/Documents/iCadivi/build/iCadivi.build/Distribution-iphonesimulator/iCadivi.build/iCadivi-all-target-headers.hmap -iquote /Users/Boris/Documents/iCadivi/build/iCadivi.build/Distribution-iphonesimulator/iCadivi.build/iCadivi-project-headers.hmap -F/Users/Boris/Documents/iCadivi/build/Distribution-iphonesimulator -F/Users/Boris/Documents/iCadivi -I/Users/Boris/Documents/iCadivi/build/Distribution-iphonesimulator/include -I/Users/Boris/Documents/iCadivi/build/iCadivi.build/Distribution-iphonesimulator/iCadivi.build/DerivedSources/i386 -I/Users/Boris/Documents/iCadivi/build/iCadivi.build/Distribution-iphonesimulator/iCadivi.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -c /Users/Boris/Documents/iCadivi/iCadivi_Prefix.pch -o /var/folders/6+/6+2T2fk4H8mtlkHrBUzgTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iCadivi_Prefix-bqkbqthqgaxyoldtkittzkgysmrs/iCadivi_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/6+/6+2T2fk4H8mtlkHrBUzgTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iCadivi_Prefix-foqzhbmcpywbmnfweuymyamvxeob/iCadivi_Prefix.pch.gch iCadivi_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CTouch /Users/Boris/Documents/iCadivi/build/Distribution-iphonesimulator/iCadivi.app
+s311560221.610992
+e311560221.614077
+r1
+xTouch
+x/Users/Boris/Documents/iCadivi/build/Distribution-iphonesimulator/iCadivi.app
+lSLF07#2@83"Touch /Users/Boris/Documents/iCadivi/build/Distribution-iphonesimulator/iCadivi.app311560221#311560221#0(0"0(0#0#0"8611926240#293"    cd /Users/Boris/Documents/iCadivi    setenv PATH "/Developer/iOS SDK 4.1/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/iOS SDK 4.1/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/Boris/Documents/iCadivi/build/Distribution-iphonesimulator/iCadivi.app0#
+

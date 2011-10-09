@@ -1,0 +1,2 @@
+/Users/Boris/Documents/iCadivi/Classes/email.m:387: warning: property 'templabel' requires method '-templabel' to be defined - use @synthesize, @dynamic or provide a method implementation
+/Users/Boris/Documents/iCadivi/Classes/email.m:387: warning: property 'templabel' requires the method 'setTemplabel:' to be defined - use @synthesize, @dynamic or provide a method implementation

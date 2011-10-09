@@ -1,0 +1,507 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		1D3623260D0F684500981E51 /* iCadiviAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 1D3623250D0F684500981E51 /* iCadiviAppDelegate.m */; };
+		1D60589B0D05DD56006BFB54 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 29B97316FDCFA39411CA2CEA /* main.m */; };
+		1D60589F0D05DD5A006BFB54 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1D30AB110D05D00D00671497 /* Foundation.framework */; };
+		1DF5F4E00D08C38300B7A737 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1DF5F4DF0D08C38300B7A737 /* UIKit.framework */; };
+		28193060112F816700ECF9B4 /* iCadivi.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 2819305F112F816700ECF9B4 /* iCadivi.xcdatamodeld */; };
+		288765A50DF7441C002DB57D /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 288765A40DF7441C002DB57D /* CoreGraphics.framework */; };
+		28AD733F0D9D9553002E5188 /* MainWindow.xib in Resources */ = {isa = PBXBuildFile; fileRef = 28AD733E0D9D9553002E5188 /* MainWindow.xib */; };
+		28D801B40F44B63D00FB423F /* CoreData.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 28D801B30F44B63D00FB423F /* CoreData.framework */; };
+		454573C6128B880400B2F17E /* portada_icadivi.png in Resources */ = {isa = PBXBuildFile; fileRef = 454573C5128B880400B2F17E /* portada_icadivi.png */; };
+		45457592128CF22C00B2F17E /* aceptar.png in Resources */ = {isa = PBXBuildFile; fileRef = 4545758D128CF22C00B2F17E /* aceptar.png */; };
+		45457593128CF22C00B2F17E /* agregar.png in Resources */ = {isa = PBXBuildFile; fileRef = 4545758E128CF22C00B2F17E /* agregar.png */; };
+		45457594128CF22C00B2F17E /* cmv_bg.png in Resources */ = {isa = PBXBuildFile; fileRef = 4545758F128CF22C00B2F17E /* cmv_bg.png */; };
+		45457595128CF22C00B2F17E /* eliminar.png in Resources */ = {isa = PBXBuildFile; fileRef = 45457590128CF22C00B2F17E /* eliminar.png */; };
+		45457596128CF22C00B2F17E /* enviar.png in Resources */ = {isa = PBXBuildFile; fileRef = 45457591128CF22C00B2F17E /* enviar.png */; };
+		454575B0128CF68400B2F17E /* cancelar.png in Resources */ = {isa = PBXBuildFile; fileRef = 454575AF128CF68400B2F17E /* cancelar.png */; };
+		45457624128D0B5200B2F17E /* enviar_icon.png in Resources */ = {isa = PBXBuildFile; fileRef = 45457622128D0B5200B2F17E /* enviar_icon.png */; };
+		45457633128D0CC400B2F17E /* icadivi_tag_icon.png in Resources */ = {isa = PBXBuildFile; fileRef = 45457632128D0CC400B2F17E /* icadivi_tag_icon.png */; };
+		45457639128D0F1200B2F17E /* agregar_icon.png in Resources */ = {isa = PBXBuildFile; fileRef = 45457638128D0F1200B2F17E /* agregar_icon.png */; };
+		4545763F128D10B300B2F17E /* first_aid_icon.png in Resources */ = {isa = PBXBuildFile; fileRef = 4545763E128D10B300B2F17E /* first_aid_icon.png */; };
+		454578E5128E32C800B2F17E /* manualTableViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 454578E3128E32C800B2F17E /* manualTableViewController.m */; };
+		454578E6128E32C800B2F17E /* manualTableViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 454578E4128E32C800B2F17E /* manualTableViewController.xib */; };
+		4545790C128E3D1300B2F17E /* manualTextsViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 4545790A128E3D1300B2F17E /* manualTextsViewController.m */; };
+		4545790D128E3D1300B2F17E /* manualTextsViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 4545790B128E3D1300B2F17E /* manualTextsViewController.xib */; };
+		4592DBBA128FC2630072B137 /* iCadivi.png in Resources */ = {isa = PBXBuildFile; fileRef = 4592DBB9128FC2630072B137 /* iCadivi.png */; };
+		A1183EDC127E2EEA00D04348 /* ayuda.m in Sources */ = {isa = PBXBuildFile; fileRef = A1183EDA127E2EEA00D04348 /* ayuda.m */; };
+		A1183EDD127E2EEA00D04348 /* ayuda.xib in Resources */ = {isa = PBXBuildFile; fileRef = A1183EDB127E2EEA00D04348 /* ayuda.xib */; };
+		A1183F07127E34DA00D04348 /* about.m in Sources */ = {isa = PBXBuildFile; fileRef = A1183F05127E34DA00D04348 /* about.m */; };
+		A1183F08127E34DA00D04348 /* about.xib in Resources */ = {isa = PBXBuildFile; fileRef = A1183F06127E34DA00D04348 /* about.xib */; };
+		A1183FBE127E43FB00D04348 /* ayudaViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = A1183FBC127E43FB00D04348 /* ayudaViewController.m */; };
+		A1183FBF127E43FB00D04348 /* ayudaViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = A1183FBD127E43FB00D04348 /* ayudaViewController.xib */; };
+		A1184016127FA46800D04348 /* email.m in Sources */ = {isa = PBXBuildFile; fileRef = A1184014127FA46800D04348 /* email.m */; };
+		A1184017127FA46800D04348 /* email.xib in Resources */ = {isa = PBXBuildFile; fileRef = A1184015127FA46800D04348 /* email.xib */; };
+		A11841571280CB1A00D04348 /* MessageUI.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A11841561280CB1A00D04348 /* MessageUI.framework */; };
+		A11F85481258CEE900B61591 /* gasto.m in Sources */ = {isa = PBXBuildFile; fileRef = A11F85451258CEE900B61591 /* gasto.m */; };
+		A11F85491258CEE900B61591 /* cupo.m in Sources */ = {isa = PBXBuildFile; fileRef = A11F85471258CEE900B61591 /* cupo.m */; };
+		A1C6C68C124E3DAC00008D20 /* newCupo.m in Sources */ = {isa = PBXBuildFile; fileRef = A1C6C68A124E3DAC00008D20 /* newCupo.m */; };
+		A1C6C68D124E3DAC00008D20 /* newCupo.xib in Resources */ = {isa = PBXBuildFile; fileRef = A1C6C68B124E3DAC00008D20 /* newCupo.xib */; };
+		A1C6C69C124E3E5C00008D20 /* newExpense.m in Sources */ = {isa = PBXBuildFile; fileRef = A1C6C69A124E3E5C00008D20 /* newExpense.m */; };
+		A1C6C69D124E3E5C00008D20 /* newExpense.xib in Resources */ = {isa = PBXBuildFile; fileRef = A1C6C69B124E3E5C00008D20 /* newExpense.xib */; };
+		A1C6C76C124E706000008D20 /* cupoView.m in Sources */ = {isa = PBXBuildFile; fileRef = A1C6C76A124E706000008D20 /* cupoView.m */; };
+		A1C6C76D124E706000008D20 /* cupoView.xib in Resources */ = {isa = PBXBuildFile; fileRef = A1C6C76B124E706000008D20 /* cupoView.xib */; };
+		A1C6CD551251550100008D20 /* mainCuposView.m in Sources */ = {isa = PBXBuildFile; fileRef = A1C6CD531251550100008D20 /* mainCuposView.m */; };
+		A1C6CD561251550100008D20 /* mainCuposView.xib in Resources */ = {isa = PBXBuildFile; fileRef = A1C6CD541251550100008D20 /* mainCuposView.xib */; };
+		A1C6D21A125405A500008D20 /* expenseDetail.m in Sources */ = {isa = PBXBuildFile; fileRef = A1C6D218125405A500008D20 /* expenseDetail.m */; };
+		A1C6D21B125405A500008D20 /* expenseDetail.xib in Resources */ = {isa = PBXBuildFile; fileRef = A1C6D219125405A500008D20 /* expenseDetail.xib */; };
+		A1C6D55812555DC200008D20 /* expense.m in Sources */ = {isa = PBXBuildFile; fileRef = A1C6D55612555DC200008D20 /* expense.m */; };
+		A1C6D55912555DC200008D20 /* expense.xib in Resources */ = {isa = PBXBuildFile; fileRef = A1C6D55712555DC200008D20 /* expense.xib */; };
+		A1E5B391126D130B001C8F7E /* Settings.bundle in Resources */ = {isa = PBXBuildFile; fileRef = A1E5B390126D130B001C8F7E /* Settings.bundle */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		1D30AB110D05D00D00671497 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		1D3623240D0F684500981E51 /* iCadiviAppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = iCadiviAppDelegate.h; sourceTree = "<group>"; };
+		1D3623250D0F684500981E51 /* iCadiviAppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = iCadiviAppDelegate.m; sourceTree = "<group>"; };
+		1D6058910D05DD3D006BFB54 /* iCadivi.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = iCadivi.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		1DF5F4DF0D08C38300B7A737 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		288765A40DF7441C002DB57D /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		28AD733E0D9D9553002E5188 /* MainWindow.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = MainWindow.xib; sourceTree = "<group>"; };
+		28C3AD890F43EF2300507BA6 /* iCadivi.xcdatamodel */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = wrapper.xcdatamodel; path = iCadivi.xcdatamodel; sourceTree = "<group>"; };
+		28D801B30F44B63D00FB423F /* CoreData.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreData.framework; path = System/Library/Frameworks/CoreData.framework; sourceTree = SDKROOT; };
+		29B97316FDCFA39411CA2CEA /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		32CA4F630368D1EE00C91783 /* iCadivi_Prefix.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = iCadivi_Prefix.pch; sourceTree = "<group>"; };
+		454573C5128B880400B2F17E /* portada_icadivi.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = portada_icadivi.png; sourceTree = "<group>"; };
+		4545758D128CF22C00B2F17E /* aceptar.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = aceptar.png; sourceTree = "<group>"; };
+		4545758E128CF22C00B2F17E /* agregar.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = agregar.png; sourceTree = "<group>"; };
+		4545758F128CF22C00B2F17E /* cmv_bg.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = cmv_bg.png; sourceTree = "<group>"; };
+		45457590128CF22C00B2F17E /* eliminar.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = eliminar.png; sourceTree = "<group>"; };
+		45457591128CF22C00B2F17E /* enviar.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = enviar.png; sourceTree = "<group>"; };
+		454575AF128CF68400B2F17E /* cancelar.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = cancelar.png; sourceTree = "<group>"; };
+		45457622128D0B5200B2F17E /* enviar_icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = enviar_icon.png; sourceTree = "<group>"; };
+		45457632128D0CC400B2F17E /* icadivi_tag_icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icadivi_tag_icon.png; sourceTree = "<group>"; };
+		45457638128D0F1200B2F17E /* agregar_icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = agregar_icon.png; sourceTree = "<group>"; };
+		4545763E128D10B300B2F17E /* first_aid_icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = first_aid_icon.png; sourceTree = "<group>"; };
+		454578E2128E32C800B2F17E /* manualTableViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = manualTableViewController.h; sourceTree = "<group>"; };
+		454578E3128E32C800B2F17E /* manualTableViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = manualTableViewController.m; sourceTree = "<group>"; };
+		454578E4128E32C800B2F17E /* manualTableViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = manualTableViewController.xib; path = Classes/manualTableViewController.xib; sourceTree = "<group>"; };
+		45457909128E3D1300B2F17E /* manualTextsViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = manualTextsViewController.h; sourceTree = "<group>"; };
+		4545790A128E3D1300B2F17E /* manualTextsViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = manualTextsViewController.m; sourceTree = "<group>"; };
+		4545790B128E3D1300B2F17E /* manualTextsViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = manualTextsViewController.xib; path = Classes/manualTextsViewController.xib; sourceTree = "<group>"; };
+		4592DBB9128FC2630072B137 /* iCadivi.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = iCadivi.png; sourceTree = "<group>"; };
+		8D1107310486CEB800E47090 /* iCadivi-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "iCadivi-Info.plist"; plistStructureDefinitionIdentifier = "com.apple.xcode.plist.structure-definition.iphone.info-plist"; sourceTree = "<group>"; };
+		A1183ED9127E2EEA00D04348 /* ayuda.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ayuda.h; sourceTree = "<group>"; };
+		A1183EDA127E2EEA00D04348 /* ayuda.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ayuda.m; sourceTree = "<group>"; };
+		A1183EDB127E2EEA00D04348 /* ayuda.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = ayuda.xib; path = Classes/ayuda.xib; sourceTree = "<group>"; };
+		A1183F04127E34DA00D04348 /* about.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = about.h; sourceTree = "<group>"; };
+		A1183F05127E34DA00D04348 /* about.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = about.m; sourceTree = "<group>"; };
+		A1183F06127E34DA00D04348 /* about.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = about.xib; path = Classes/about.xib; sourceTree = "<group>"; };
+		A1183FBB127E43FB00D04348 /* ayudaViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ayudaViewController.h; sourceTree = "<group>"; };
+		A1183FBC127E43FB00D04348 /* ayudaViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ayudaViewController.m; sourceTree = "<group>"; };
+		A1183FBD127E43FB00D04348 /* ayudaViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = ayudaViewController.xib; path = Classes/ayudaViewController.xib; sourceTree = "<group>"; };
+		A1184013127FA46800D04348 /* email.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = email.h; sourceTree = "<group>"; };
+		A1184014127FA46800D04348 /* email.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = email.m; sourceTree = "<group>"; };
+		A1184015127FA46800D04348 /* email.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = email.xib; path = Classes/email.xib; sourceTree = "<group>"; };
+		A11841561280CB1A00D04348 /* MessageUI.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MessageUI.framework; path = System/Library/Frameworks/MessageUI.framework; sourceTree = SDKROOT; };
+		A11F85441258CEE900B61591 /* gasto.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = gasto.h; sourceTree = "<group>"; };
+		A11F85451258CEE900B61591 /* gasto.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = gasto.m; sourceTree = "<group>"; };
+		A11F85461258CEE900B61591 /* cupo.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = cupo.h; sourceTree = "<group>"; };
+		A11F85471258CEE900B61591 /* cupo.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = cupo.m; sourceTree = "<group>"; };
+		A1BCF9331291C65600557B66 /* Entitlements.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Entitlements.plist; sourceTree = "<group>"; };
+		A1C6C689124E3DAC00008D20 /* newCupo.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = newCupo.h; sourceTree = "<group>"; };
+		A1C6C68A124E3DAC00008D20 /* newCupo.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = newCupo.m; sourceTree = "<group>"; };
+		A1C6C68B124E3DAC00008D20 /* newCupo.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = newCupo.xib; path = Classes/newCupo.xib; sourceTree = "<group>"; };
+		A1C6C699124E3E5C00008D20 /* newExpense.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = newExpense.h; sourceTree = "<group>"; };
+		A1C6C69A124E3E5C00008D20 /* newExpense.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = newExpense.m; sourceTree = "<group>"; };
+		A1C6C69B124E3E5C00008D20 /* newExpense.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = newExpense.xib; path = Classes/newExpense.xib; sourceTree = "<group>"; };
+		A1C6C769124E706000008D20 /* cupoView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = cupoView.h; sourceTree = "<group>"; };
+		A1C6C76A124E706000008D20 /* cupoView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = cupoView.m; sourceTree = "<group>"; };
+		A1C6C76B124E706000008D20 /* cupoView.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = cupoView.xib; path = Classes/cupoView.xib; sourceTree = "<group>"; };
+		A1C6CD521251550100008D20 /* mainCuposView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = mainCuposView.h; sourceTree = "<group>"; };
+		A1C6CD531251550100008D20 /* mainCuposView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = mainCuposView.m; sourceTree = "<group>"; };
+		A1C6CD541251550100008D20 /* mainCuposView.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = mainCuposView.xib; path = Classes/mainCuposView.xib; sourceTree = "<group>"; };
+		A1C6D217125405A500008D20 /* expenseDetail.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = expenseDetail.h; sourceTree = "<group>"; };
+		A1C6D218125405A500008D20 /* expenseDetail.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = expenseDetail.m; sourceTree = "<group>"; };
+		A1C6D219125405A500008D20 /* expenseDetail.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = expenseDetail.xib; path = Classes/expenseDetail.xib; sourceTree = "<group>"; };
+		A1C6D55512555DC200008D20 /* expense.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = expense.h; sourceTree = "<group>"; };
+		A1C6D55612555DC200008D20 /* expense.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = expense.m; sourceTree = "<group>"; };
+		A1C6D55712555DC200008D20 /* expense.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = expense.xib; path = Classes/expense.xib; sourceTree = "<group>"; };
+		A1E5B390126D130B001C8F7E /* Settings.bundle */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.plug-in"; name = Settings.bundle; path = Classes/Settings.bundle; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		1D60588F0D05DD3D006BFB54 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				1D60589F0D05DD5A006BFB54 /* Foundation.framework in Frameworks */,
+				1DF5F4E00D08C38300B7A737 /* UIKit.framework in Frameworks */,
+				288765A50DF7441C002DB57D /* CoreGraphics.framework in Frameworks */,
+				28D801B40F44B63D00FB423F /* CoreData.framework in Frameworks */,
+				A11841571280CB1A00D04348 /* MessageUI.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		080E96DDFE201D6D7F000001 /* Classes */ = {
+			isa = PBXGroup;
+			children = (
+				A11F85441258CEE900B61591 /* gasto.h */,
+				A11F85451258CEE900B61591 /* gasto.m */,
+				A11F85461258CEE900B61591 /* cupo.h */,
+				A11F85471258CEE900B61591 /* cupo.m */,
+				A1C6C769124E706000008D20 /* cupoView.h */,
+				A1C6C76A124E706000008D20 /* cupoView.m */,
+				A1C6C689124E3DAC00008D20 /* newCupo.h */,
+				A1C6C68A124E3DAC00008D20 /* newCupo.m */,
+				A1C6C699124E3E5C00008D20 /* newExpense.h */,
+				A1C6C69A124E3E5C00008D20 /* newExpense.m */,
+				1D3623240D0F684500981E51 /* iCadiviAppDelegate.h */,
+				1D3623250D0F684500981E51 /* iCadiviAppDelegate.m */,
+				A1C6CD521251550100008D20 /* mainCuposView.h */,
+				A1C6CD531251550100008D20 /* mainCuposView.m */,
+				A1183ED9127E2EEA00D04348 /* ayuda.h */,
+				A1183EDA127E2EEA00D04348 /* ayuda.m */,
+				A1C6D217125405A500008D20 /* expenseDetail.h */,
+				A1C6D218125405A500008D20 /* expenseDetail.m */,
+				A1183FBB127E43FB00D04348 /* ayudaViewController.h */,
+				A1183FBC127E43FB00D04348 /* ayudaViewController.m */,
+				A1C6D55512555DC200008D20 /* expense.h */,
+				A1C6D55612555DC200008D20 /* expense.m */,
+				A1183F04127E34DA00D04348 /* about.h */,
+				A1183F05127E34DA00D04348 /* about.m */,
+				A1184013127FA46800D04348 /* email.h */,
+				A1184014127FA46800D04348 /* email.m */,
+				454578E2128E32C800B2F17E /* manualTableViewController.h */,
+				454578E3128E32C800B2F17E /* manualTableViewController.m */,
+				45457909128E3D1300B2F17E /* manualTextsViewController.h */,
+				4545790A128E3D1300B2F17E /* manualTextsViewController.m */,
+			);
+			path = Classes;
+			sourceTree = "<group>";
+		};
+		19C28FACFE9D520D11CA2CBB /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				1D6058910D05DD3D006BFB54 /* iCadivi.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		29B97314FDCFA39411CA2CEA /* CustomTemplate */ = {
+			isa = PBXGroup;
+			children = (
+				080E96DDFE201D6D7F000001 /* Classes */,
+				29B97315FDCFA39411CA2CEA /* Other Sources */,
+				29B97317FDCFA39411CA2CEA /* Resources */,
+				29B97323FDCFA39411CA2CEA /* Frameworks */,
+				19C28FACFE9D520D11CA2CBB /* Products */,
+				A1BCF9331291C65600557B66 /* Entitlements.plist */,
+			);
+			name = CustomTemplate;
+			sourceTree = "<group>";
+		};
+		29B97315FDCFA39411CA2CEA /* Other Sources */ = {
+			isa = PBXGroup;
+			children = (
+				32CA4F630368D1EE00C91783 /* iCadivi_Prefix.pch */,
+				29B97316FDCFA39411CA2CEA /* main.m */,
+			);
+			name = "Other Sources";
+			sourceTree = "<group>";
+		};
+		29B97317FDCFA39411CA2CEA /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				4592DBB9128FC2630072B137 /* iCadivi.png */,
+				4545763E128D10B300B2F17E /* first_aid_icon.png */,
+				45457632128D0CC400B2F17E /* icadivi_tag_icon.png */,
+				45457638128D0F1200B2F17E /* agregar_icon.png */,
+				45457622128D0B5200B2F17E /* enviar_icon.png */,
+				454575AF128CF68400B2F17E /* cancelar.png */,
+				4545758D128CF22C00B2F17E /* aceptar.png */,
+				4545758E128CF22C00B2F17E /* agregar.png */,
+				4545758F128CF22C00B2F17E /* cmv_bg.png */,
+				45457590128CF22C00B2F17E /* eliminar.png */,
+				45457591128CF22C00B2F17E /* enviar.png */,
+				454573C5128B880400B2F17E /* portada_icadivi.png */,
+				4545790B128E3D1300B2F17E /* manualTextsViewController.xib */,
+				454578E4128E32C800B2F17E /* manualTableViewController.xib */,
+				A1183FBD127E43FB00D04348 /* ayudaViewController.xib */,
+				A1184015127FA46800D04348 /* email.xib */,
+				A1183EDB127E2EEA00D04348 /* ayuda.xib */,
+				A1183F06127E34DA00D04348 /* about.xib */,
+				A1E5B390126D130B001C8F7E /* Settings.bundle */,
+				A1C6D55712555DC200008D20 /* expense.xib */,
+				A1C6D219125405A500008D20 /* expenseDetail.xib */,
+				A1C6CD541251550100008D20 /* mainCuposView.xib */,
+				A1C6C76B124E706000008D20 /* cupoView.xib */,
+				A1C6C69B124E3E5C00008D20 /* newExpense.xib */,
+				A1C6C68B124E3DAC00008D20 /* newCupo.xib */,
+				2819305F112F816700ECF9B4 /* iCadivi.xcdatamodeld */,
+				28AD733E0D9D9553002E5188 /* MainWindow.xib */,
+				8D1107310486CEB800E47090 /* iCadivi-Info.plist */,
+			);
+			name = Resources;
+			sourceTree = "<group>";
+		};
+		29B97323FDCFA39411CA2CEA /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				1DF5F4DF0D08C38300B7A737 /* UIKit.framework */,
+				A11841561280CB1A00D04348 /* MessageUI.framework */,
+				1D30AB110D05D00D00671497 /* Foundation.framework */,
+				288765A40DF7441C002DB57D /* CoreGraphics.framework */,
+				28D801B30F44B63D00FB423F /* CoreData.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		1D6058900D05DD3D006BFB54 /* iCadivi */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 1D6058960D05DD3E006BFB54 /* Build configuration list for PBXNativeTarget "iCadivi" */;
+			buildPhases = (
+				1D60588D0D05DD3D006BFB54 /* Resources */,
+				1D60588E0D05DD3D006BFB54 /* Sources */,
+				1D60588F0D05DD3D006BFB54 /* Frameworks */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = iCadivi;
+			productName = iCadivi;
+			productReference = 1D6058910D05DD3D006BFB54 /* iCadivi.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		29B97313FDCFA39411CA2CEA /* Project object */ = {
+			isa = PBXProject;
+			buildConfigurationList = C01FCF4E08A954540054247B /* Build configuration list for PBXProject "iCadivi" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 1;
+			knownRegions = (
+				English,
+				Japanese,
+				French,
+				German,
+			);
+			mainGroup = 29B97314FDCFA39411CA2CEA /* CustomTemplate */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				1D6058900D05DD3D006BFB54 /* iCadivi */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		1D60588D0D05DD3D006BFB54 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				28AD733F0D9D9553002E5188 /* MainWindow.xib in Resources */,
+				A1C6C68D124E3DAC00008D20 /* newCupo.xib in Resources */,
+				A1C6C69D124E3E5C00008D20 /* newExpense.xib in Resources */,
+				A1C6C76D124E706000008D20 /* cupoView.xib in Resources */,
+				A1C6CD561251550100008D20 /* mainCuposView.xib in Resources */,
+				A1C6D21B125405A500008D20 /* expenseDetail.xib in Resources */,
+				A1C6D55912555DC200008D20 /* expense.xib in Resources */,
+				A1E5B391126D130B001C8F7E /* Settings.bundle in Resources */,
+				A1183EDD127E2EEA00D04348 /* ayuda.xib in Resources */,
+				A1183F08127E34DA00D04348 /* about.xib in Resources */,
+				A1183FBF127E43FB00D04348 /* ayudaViewController.xib in Resources */,
+				A1184017127FA46800D04348 /* email.xib in Resources */,
+				454573C6128B880400B2F17E /* portada_icadivi.png in Resources */,
+				45457592128CF22C00B2F17E /* aceptar.png in Resources */,
+				45457593128CF22C00B2F17E /* agregar.png in Resources */,
+				45457594128CF22C00B2F17E /* cmv_bg.png in Resources */,
+				45457595128CF22C00B2F17E /* eliminar.png in Resources */,
+				45457596128CF22C00B2F17E /* enviar.png in Resources */,
+				454575B0128CF68400B2F17E /* cancelar.png in Resources */,
+				45457624128D0B5200B2F17E /* enviar_icon.png in Resources */,
+				45457633128D0CC400B2F17E /* icadivi_tag_icon.png in Resources */,
+				45457639128D0F1200B2F17E /* agregar_icon.png in Resources */,
+				4545763F128D10B300B2F17E /* first_aid_icon.png in Resources */,
+				454578E6128E32C800B2F17E /* manualTableViewController.xib in Resources */,
+				4545790D128E3D1300B2F17E /* manualTextsViewController.xib in Resources */,
+				4592DBBA128FC2630072B137 /* iCadivi.png in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		1D60588E0D05DD3D006BFB54 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				1D60589B0D05DD56006BFB54 /* main.m in Sources */,
+				1D3623260D0F684500981E51 /* iCadiviAppDelegate.m in Sources */,
+				28193060112F816700ECF9B4 /* iCadivi.xcdatamodeld in Sources */,
+				A1C6C68C124E3DAC00008D20 /* newCupo.m in Sources */,
+				A1C6C69C124E3E5C00008D20 /* newExpense.m in Sources */,
+				A1C6C76C124E706000008D20 /* cupoView.m in Sources */,
+				A1C6CD551251550100008D20 /* mainCuposView.m in Sources */,
+				A1C6D21A125405A500008D20 /* expenseDetail.m in Sources */,
+				A1C6D55812555DC200008D20 /* expense.m in Sources */,
+				A11F85481258CEE900B61591 /* gasto.m in Sources */,
+				A11F85491258CEE900B61591 /* cupo.m in Sources */,
+				A1183EDC127E2EEA00D04348 /* ayuda.m in Sources */,
+				A1183F07127E34DA00D04348 /* about.m in Sources */,
+				A1183FBE127E43FB00D04348 /* ayudaViewController.m in Sources */,
+				A1184016127FA46800D04348 /* email.m in Sources */,
+				454578E5128E32C800B2F17E /* manualTableViewController.m in Sources */,
+				4545790C128E3D1300B2F17E /* manualTextsViewController.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		1D6058940D05DD3E006BFB54 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CODE_SIGN_ENTITLEMENTS = "~/Documents/iCadivi/Entitlements.plist";
+				COPY_PHASE_STRIP = NO;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"\"$(SRCROOT)\"",
+				);
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = iCadivi_Prefix.pch;
+				INFOPLIST_FILE = "iCadivi-Info.plist";
+				PRODUCT_NAME = iCadivi;
+			};
+			name = Debug;
+		};
+		1D6058950D05DD3E006BFB54 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CODE_SIGN_ENTITLEMENTS = "~/Documents/iCadivi/Entitlements.plist";
+				COPY_PHASE_STRIP = YES;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"\"$(SRCROOT)\"",
+				);
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = iCadivi_Prefix.pch;
+				INFOPLIST_FILE = "iCadivi-Info.plist";
+				PRODUCT_NAME = iCadivi;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		A1BCF92B1291C51500557B66 /* Distribution */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				GCC_C_LANGUAGE_STANDARD = c99;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
+				PREBINDING = NO;
+				SDKROOT = iphoneos4.1;
+			};
+			name = Distribution;
+		};
+		A1BCF92C1291C51500557B66 /* Distribution */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CODE_SIGN_ENTITLEMENTS = "~/Documents/iCadivi/Entitlements.plist";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution: Boris  Polania";
+				COPY_PHASE_STRIP = YES;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"\"$(SRCROOT)\"",
+				);
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = iCadivi_Prefix.pch;
+				INFOPLIST_FILE = "iCadivi-Info.plist";
+				PRODUCT_NAME = iCadivi;
+				SDKROOT = iphoneos4.1;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Distribution;
+		};
+		C01FCF4F08A954540054247B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				GCC_C_LANGUAGE_STANDARD = c99;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				PREBINDING = NO;
+				SDKROOT = iphoneos4.1;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		C01FCF5008A954540054247B /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				GCC_C_LANGUAGE_STANDARD = c99;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
+				PREBINDING = NO;
+				SDKROOT = iphoneos4.2;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		1D6058960D05DD3E006BFB54 /* Build configuration list for PBXNativeTarget "iCadivi" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				1D6058940D05DD3E006BFB54 /* Debug */,
+				1D6058950D05DD3E006BFB54 /* Release */,
+				A1BCF92C1291C51500557B66 /* Distribution */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		C01FCF4E08A954540054247B /* Build configuration list for PBXProject "iCadivi" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				C01FCF4F08A954540054247B /* Debug */,
+				C01FCF5008A954540054247B /* Release */,
+				A1BCF92B1291C51500557B66 /* Distribution */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+
+/* Begin XCVersionGroup section */
+		2819305F112F816700ECF9B4 /* iCadivi.xcdatamodeld */ = {
+			isa = XCVersionGroup;
+			children = (
+				28C3AD890F43EF2300507BA6 /* iCadivi.xcdatamodel */,
+			);
+			currentVersion = 28C3AD890F43EF2300507BA6 /* iCadivi.xcdatamodel */;
+			path = iCadivi.xcdatamodeld;
+			sourceTree = "<group>";
+			versionGroupType = wrapper.xcdatamodel;
+		};
+/* End XCVersionGroup section */
+	};
+	rootObject = 29B97313FDCFA39411CA2CEA /* Project object */;
+}

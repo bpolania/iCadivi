@@ -1,0 +1,550 @@
+TiCadivi
+v7
+r0
+t307118535.718503
+cCheck dependencies
+cProcessInfoPlistFile /Users/Boris/Documents/DataStorageTestApp/iCadivi/build/Debug-iphonesimulator/iCadivi.app/Info.plist iCadivi-Info.plist
+cCompileXIB /Users/Boris/Documents/DataStorageTestApp/iCadivi/MainWindow.xib
+cCompileXIB /Users/Boris/Documents/DataStorageTestApp/iCadivi/Classes/newCupo.xib
+cCompileXIB /Users/Boris/Documents/DataStorageTestApp/iCadivi/Classes/newExpense.xib
+cCompileXIB /Users/Boris/Documents/DataStorageTestApp/iCadivi/Classes/expenseDetail.xib
+cCompileXIB /Users/Boris/Documents/DataStorageTestApp/iCadivi/Classes/mainViewController.xib
+cProcessPCH /var/folders/6+/6+2T2fk4H8mtlkHrBUzgTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iCadivi_Prefix-heoxnzdxymfsqdbivtcolkrsegwa/iCadivi_Prefix.pch.gch iCadivi_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cDataModelVersionCompile /Users/Boris/Documents/DataStorageTestApp/iCadivi/build/Debug-iphonesimulator/iCadivi.app/iCadivi.momd /Users/Boris/Documents/DataStorageTestApp/iCadivi/iCadivi.xcdatamodeld
+cCompileC build/iCadivi.build/Debug-iphonesimulator/iCadivi.build/Objects-normal/i386/main.o /Users/Boris/Documents/DataStorageTestApp/iCadivi/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iCadivi.build/Debug-iphonesimulator/iCadivi.build/Objects-normal/i386/iCadiviAppDelegate.o /Users/Boris/Documents/DataStorageTestApp/iCadivi/Classes/iCadiviAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iCadivi.build/Debug-iphonesimulator/iCadivi.build/Objects-normal/i386/newCupo.o /Users/Boris/Documents/DataStorageTestApp/iCadivi/Classes/newCupo.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iCadivi.build/Debug-iphonesimulator/iCadivi.build/Objects-normal/i386/newExpense.o /Users/Boris/Documents/DataStorageTestApp/iCadivi/Classes/newExpense.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iCadivi.build/Debug-iphonesimulator/iCadivi.build/Objects-normal/i386/expenseDetail.o /Users/Boris/Documents/DataStorageTestApp/iCadivi/Classes/expenseDetail.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iCadivi.build/Debug-iphonesimulator/iCadivi.build/Objects-normal/i386/mainViewController.o /Users/Boris/Documents/DataStorageTestApp/iCadivi/Classes/mainViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004C9288270000000000000110
+t1284671527
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreData.framework/CoreData
+c000000004C872FF600000000001D2EC0
+t1283928054
+s1912512
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreData.framework/Headers/CoreData.h
+c000000004C872FEA000000000000046B
+t1283928042
+s1131
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004C872F53000000000029B1D0
+t1283927891
+s2732496
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004C872FB1000000000029D590
+t1283927985
+s2741648
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004C872FA40000000000001466
+t1283927972
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C8741500000000000000AA1
+t1283932496
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C8741C10000000000735310
+t1283932609
+s7557904
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/Availability.h
+c000000004C87303C0000000000001ADD
+t1283928124
+s6877
+
+N/Users/Boris/Documents/DataStorageTestApp/iCadivi/Classes/../cupoDetail.m
+c000000004C9E0602000000000000058B
+t1285424642
+s1419
+i"cupoDetail.h"
+
+N/Users/Boris/Documents/DataStorageTestApp/iCadivi/Classes/../mainView.m
+c000000004C9E05A80000000000000585
+t1285424552
+s1413
+i"mainView.h"
+
+N/Users/Boris/Documents/DataStorageTestApp/iCadivi/Classes/expendDetail.h
+c000000004C9E067700000000000000DD
+t1285424759
+s221
+i<UIKit/UIKit.h>
+
+N/Users/Boris/Documents/DataStorageTestApp/iCadivi/Classes/expendDetail.m
+c000000004C9E06770000000000000591
+t1285424759
+s1425
+i"expendDetail.h"
+
+N/Users/Boris/Documents/DataStorageTestApp/iCadivi/Classes/expendDetail.xib
+c000000004C9E0677000000000000185F
+t1285424759
+s6239
+
+N/Users/Boris/Documents/DataStorageTestApp/iCadivi/Classes/expenseDetail.h
+c000000004C9E06FA00000000000000DF
+t1285424890
+s223
+i<UIKit/UIKit.h>
+
+N/Users/Boris/Documents/DataStorageTestApp/iCadivi/Classes/expenseDetail.m
+c000000004C9E06FA0000000000000594
+t1285424890
+s1428
+i"expenseDetail.h"
+
+N/Users/Boris/Documents/DataStorageTestApp/iCadivi/Classes/expenseDetail.xib
+c000000004C9E06FA0000000000001862
+t1285424890
+s6242
+
+N/Users/Boris/Documents/DataStorageTestApp/iCadivi/Classes/iCadiviAppDelegate.h
+c000000004C9E0A4300000000000003FE
+t1285425731
+s1022
+i<UIKit/UIKit.h>
+i<CoreData/CoreData.h>
+
+N/Users/Boris/Documents/DataStorageTestApp/iCadivi/Classes/iCadiviAppDelegate.m
+c000000004C9E02F30000000000001DD8
+t1285423859
+s7640
+i"iCadiviAppDelegate.h"
+
+N/Users/Boris/Documents/DataStorageTestApp/iCadivi/Classes/mainViewController.h
+c000000004C9E07E600000000000000E9
+t1285425126
+s233
+i<UIKit/UIKit.h>
+
+N/Users/Boris/Documents/DataStorageTestApp/iCadivi/Classes/mainViewController.m
+c000000004C9E07E600000000000005A3
+t1285425126
+s1443
+i"mainViewController.h"
+
+N/Users/Boris/Documents/DataStorageTestApp/iCadivi/Classes/mainViewController.xib
+c000000004C9E09370000000000004A35
+t1285425463
+s18997
+
+N/Users/Boris/Documents/DataStorageTestApp/iCadivi/Classes/newCupo.h
+c000000004C9E062C00000000000000D3
+t1285424684
+s211
+i<UIKit/UIKit.h>
+
+N/Users/Boris/Documents/DataStorageTestApp/iCadivi/Classes/newCupo.m
+c000000004C9E062C0000000000000582
+t1285424684
+s1410
+i"newCupo.h"
+
+N/Users/Boris/Documents/DataStorageTestApp/iCadivi/Classes/newCupo.xib
+c000000004C9E062C0000000000001850
+t1285424684
+s6224
+
+N/Users/Boris/Documents/DataStorageTestApp/iCadivi/Classes/newExpense.h
+c000000004C9E06DC00000000000000D9
+t1285424860
+s217
+i<UIKit/UIKit.h>
+
+N/Users/Boris/Documents/DataStorageTestApp/iCadivi/Classes/newExpense.m
+c000000004C9E06DC000000000000058B
+t1285424860
+s1419
+i"newExpense.h"
+
+N/Users/Boris/Documents/DataStorageTestApp/iCadivi/Classes/newExpense.xib
+c000000004C9E06DC0000000000001859
+t1285424860
+s6233
+
+N/Users/Boris/Documents/DataStorageTestApp/iCadivi/MainWindow.xib
+c000000004C9E02F300000000000021C5
+t1285423859
+s8645
+
+N/Users/Boris/Documents/DataStorageTestApp/iCadivi/build/Debug-iphonesimulator/iCadivi.app
+t2
+s0
+
+N/Users/Boris/Documents/DataStorageTestApp/iCadivi/build/Debug-iphonesimulator/iCadivi.app.dSYM
+t2
+s0
+
+N/Users/Boris/Documents/DataStorageTestApp/iCadivi/build/Debug-iphonesimulator/iCadivi.app/Info.plist
+t1285425732
+s591
+
+N/Users/Boris/Documents/DataStorageTestApp/iCadivi/build/Debug-iphonesimulator/iCadivi.app/MainWindow.nib
+t1285425732
+s984
+
+N/Users/Boris/Documents/DataStorageTestApp/iCadivi/build/Debug-iphonesimulator/iCadivi.app/PkgInfo
+t1285425732
+s8
+
+N/Users/Boris/Documents/DataStorageTestApp/iCadivi/build/Debug-iphonesimulator/iCadivi.app/cupoDetail.nib
+t2
+s0
+
+N/Users/Boris/Documents/DataStorageTestApp/iCadivi/build/Debug-iphonesimulator/iCadivi.app/expendDetail.nib
+t2
+s0
+
+N/Users/Boris/Documents/DataStorageTestApp/iCadivi/build/Debug-iphonesimulator/iCadivi.app/expenseDetail.nib
+t1285425733
+s764
+
+N/Users/Boris/Documents/DataStorageTestApp/iCadivi/build/Debug-iphonesimulator/iCadivi.app/iCadivi
+t2
+s0
+
+N/Users/Boris/Documents/DataStorageTestApp/iCadivi/build/Debug-iphonesimulator/iCadivi.app/iCadivi.momd
+t1285425735
+s136
+
+N/Users/Boris/Documents/DataStorageTestApp/iCadivi/build/Debug-iphonesimulator/iCadivi.app/mainView.nib
+t2
+s0
+
+N/Users/Boris/Documents/DataStorageTestApp/iCadivi/build/Debug-iphonesimulator/iCadivi.app/mainViewController.nib
+t1285425733
+s992
+
+N/Users/Boris/Documents/DataStorageTestApp/iCadivi/build/Debug-iphonesimulator/iCadivi.app/newCupo.nib
+t1285425732
+s764
+
+N/Users/Boris/Documents/DataStorageTestApp/iCadivi/build/Debug-iphonesimulator/iCadivi.app/newExpense.nib
+t1285425733
+s764
+
+N/Users/Boris/Documents/DataStorageTestApp/iCadivi/build/iCadivi.build/Debug-iphonesimulator/iCadivi.build/Objects-normal/i386/cupoDetail.o
+t2
+s0
+
+N/Users/Boris/Documents/DataStorageTestApp/iCadivi/build/iCadivi.build/Debug-iphonesimulator/iCadivi.build/Objects-normal/i386/expendDetail.o
+t2
+s0
+
+N/Users/Boris/Documents/DataStorageTestApp/iCadivi/build/iCadivi.build/Debug-iphonesimulator/iCadivi.build/Objects-normal/i386/expenseDetail.o
+t1285425735
+s34988
+
+N/Users/Boris/Documents/DataStorageTestApp/iCadivi/build/iCadivi.build/Debug-iphonesimulator/iCadivi.build/Objects-normal/i386/iCadivi.LinkFileList
+c000000004C9E0A43000000000000034C
+t1285425731
+s844
+
+N/Users/Boris/Documents/DataStorageTestApp/iCadivi/build/iCadivi.build/Debug-iphonesimulator/iCadivi.build/Objects-normal/i386/iCadiviAppDelegate.o
+t2
+s0
+
+N/Users/Boris/Documents/DataStorageTestApp/iCadivi/build/iCadivi.build/Debug-iphonesimulator/iCadivi.build/Objects-normal/i386/main.o
+t1285425735
+s6324
+
+N/Users/Boris/Documents/DataStorageTestApp/iCadivi/build/iCadivi.build/Debug-iphonesimulator/iCadivi.build/Objects-normal/i386/mainView.o
+t2
+s0
+
+N/Users/Boris/Documents/DataStorageTestApp/iCadivi/build/iCadivi.build/Debug-iphonesimulator/iCadivi.build/Objects-normal/i386/mainViewController.o
+t1285425735
+s35092
+
+N/Users/Boris/Documents/DataStorageTestApp/iCadivi/build/iCadivi.build/Debug-iphonesimulator/iCadivi.build/Objects-normal/i386/newCupo.o
+t1285425735
+s34860
+
+N/Users/Boris/Documents/DataStorageTestApp/iCadivi/build/iCadivi.build/Debug-iphonesimulator/iCadivi.build/Objects-normal/i386/newExpense.o
+t1285425735
+s34924
+
+N/Users/Boris/Documents/DataStorageTestApp/iCadivi/cupoDetail.h
+c000000004C9E060200000000000000D9
+t1285424642
+s217
+i<UIKit/UIKit.h>
+
+N/Users/Boris/Documents/DataStorageTestApp/iCadivi/cupoDetail.xib
+c000000004C9E06020000000000001859
+t1285424642
+s6233
+
+N/Users/Boris/Documents/DataStorageTestApp/iCadivi/iCadivi.xcdatamodeld
+c000000004C9E060F0000000000000088
+t1285424655
+s136
+
+N/Users/Boris/Documents/DataStorageTestApp/iCadivi/iCadivi.xcdatamodeld/cupoDetail.h
+c000000004C9E060200000000000000D9
+t1285424642
+s217
+i<UIKit/UIKit.h>
+
+N/Users/Boris/Documents/DataStorageTestApp/iCadivi/iCadivi.xcdatamodeld/cupoDetail.m
+c000000004C9E0602000000000000058B
+t1285424642
+s1419
+i"cupoDetail.h"
+
+N/Users/Boris/Documents/DataStorageTestApp/iCadivi/iCadivi.xcdatamodeld/cupoDetail.xib
+c000000004C9E06020000000000001859
+t1285424642
+s6233
+
+N/Users/Boris/Documents/DataStorageTestApp/iCadivi/iCadivi.xcdatamodeld/mainView.xib
+c000000004C9E05A80000000000001853
+t1285424552
+s6227
+
+N/Users/Boris/Documents/DataStorageTestApp/iCadivi/iCadivi_Prefix.pch
+c000000004C9E02F30000000000000162
+t1285423859
+s354
+i<Availability.h>
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+i<CoreData/CoreData.h>
+
+N/Users/Boris/Documents/DataStorageTestApp/iCadivi/main.m
+c000000004C9E02F3000000000000016A
+t1285423859
+s362
+i<UIKit/UIKit.h>
+
+N/Users/Boris/Documents/DataStorageTestApp/iCadivi/mainView.h
+c000000004C9E05A800000000000000D5
+t1285424552
+s213
+i<UIKit/UIKit.h>
+
+N/Users/Boris/Documents/DataStorageTestApp/iCadivi/mainView.m
+c000000004C9E05A80000000000000585
+t1285424552
+s1413
+i"mainView.h"
+
+N/Users/Boris/Documents/DataStorageTestApp/iCadivi/mainView.xib
+c000000004C9E05A80000000000001853
+t1285424552
+s6227
+
+N/var/folders/6+/6+2T2fk4H8mtlkHrBUzgTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iCadivi_Prefix-heoxnzdxymfsqdbivtcolkrsegwa/iCadivi_Prefix.pch.gch
+t1285425735
+s16318448
+
+NiCadivi-Info.plist
+c000000004C9E02F3000000000000038D
+t1285423859
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies307118531#307118532#0(0"0(0#1#0"8621582688#0"0#
+
+CCompileC build/iCadivi.build/Debug-iphonesimulator/iCadivi.build/Objects-normal/i386/cupoDetail.o /Users/Boris/Documents/DataStorageTestApp/iCadivi/Classes/../cupoDetail.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/iCadivi.build/Debug-iphonesimulator/iCadivi.build/Objects-normal/i386/cupoDetail.o /Users/Boris/Documents/DataStorageTestApp/iCadivi/iCadivi.xcdatamodeld/cupoDetail.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/iCadivi.build/Debug-iphonesimulator/iCadivi.build/Objects-normal/i386/expendDetail.o /Users/Boris/Documents/DataStorageTestApp/iCadivi/Classes/expendDetail.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/iCadivi.build/Debug-iphonesimulator/iCadivi.build/Objects-normal/i386/expenseDetail.o /Users/Boris/Documents/DataStorageTestApp/iCadivi/Classes/expenseDetail.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s307118535.565881
+e307118535.659006
+r1
+xCompileC
+xbuild/iCadivi.build/Debug-iphonesimulator/iCadivi.build/Objects-normal/i386/expenseDetail.o
+x/Users/Boris/Documents/DataStorageTestApp/iCadivi/Classes/expenseDetail.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@81"Compile /Users/Boris/Documents/DataStorageTestApp/iCadivi/Classes/expenseDetail.m307118535#307118535#0(0"0(0#0#73"/Users/Boris/Documents/DataStorageTestApp/iCadivi/Classes/expenseDetail.m8619974656#2061"    cd /Users/Boris/Documents/DataStorageTestApp/iCadivi    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/Boris/Documents/DataStorageTestApp/iCadivi/build/iCadivi.build/Debug-iphonesimulator/iCadivi.build/iCadivi-generated-files.hmap -I/Users/Boris/Documents/DataStorageTestApp/iCadivi/build/iCadivi.build/Debug-iphonesimulator/iCadivi.build/iCadivi-own-target-headers.hmap -I/Users/Boris/Documents/DataStorageTestApp/iCadivi/build/iCadivi.build/Debug-iphonesimulator/iCadivi.build/iCadivi-all-target-headers.hmap -iquote /Users/Boris/Documents/DataStorageTestApp/iCadivi/build/iCadivi.build/Debug-iphonesimulator/iCadivi.build/iCadivi-project-headers.hmap -F/Users/Boris/Documents/DataStorageTestApp/iCadivi/build/Debug-iphonesimulator -I/Users/Boris/Documents/DataStorageTestApp/iCadivi/build/Debug-iphonesimulator/include -I/Users/Boris/Documents/DataStorageTestApp/iCadivi/build/iCadivi.build/Debug-iphonesimulator/iCadivi.build/DerivedSources/i386 -I/Users/Boris/Documents/DataStorageTestApp/iCadivi/build/iCadivi.build/Debug-iphonesimulator/iCadivi.build/DerivedSources -include /var/folders/6+/6+2T2fk4H8mtlkHrBUzgTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iCadivi_Prefix-heoxnzdxymfsqdbivtcolkrsegwa/iCadivi_Prefix.pch -c /Users/Boris/Documents/DataStorageTestApp/iCadivi/Classes/expenseDetail.m -o /Users/Boris/Documents/DataStorageTestApp/iCadivi/build/iCadivi.build/Debug-iphonesimulator/iCadivi.build/Objects-normal/i386/expenseDetail.o0#
+
+CCompileC build/iCadivi.build/Debug-iphonesimulator/iCadivi.build/Objects-normal/i386/iCadiviAppDelegate.o /Users/Boris/Documents/DataStorageTestApp/iCadivi/Classes/iCadiviAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s307118535.465209
+e307118535.531646
+r0
+xCompileC
+xbuild/iCadivi.build/Debug-iphonesimulator/iCadivi.build/Objects-normal/i386/iCadiviAppDelegate.o
+x/Users/Boris/Documents/DataStorageTestApp/iCadivi/Classes/iCadiviAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+oIn file included from /Users/Boris/Documents/DataStorageTestApp/iCadivi/Classes/iCadiviAppDelegate.m:9:
+o/Users/Boris/Documents/DataStorageTestApp/iCadivi/Classes/iCadiviAppDelegate.h:31: error: expected specifier-qualifier-list before '*' token
+lSLF07#2@86"Compile /Users/Boris/Documents/DataStorageTestApp/iCadivi/Classes/iCadiviAppDelegate.m307118535#307118535#0(245"In file included from /Users/Boris/Documents/DataStorageTestApp/iCadivi/Classes/iCadiviAppDelegate.m:9:/Users/Boris/Documents/DataStorageTestApp/iCadivi/Classes/iCadiviAppDelegate.h:31: error: expected specifier-qualifier-list before '*' token1(4@50"Expected specifier-qualifier-list before '*' token307118535#104#141#2(7@100"In file included from /Users/Boris/Documents/DataStorageTestApp/iCadivi/Classes/iCadiviAppDelegate.m307118535#18446744073709551615#0#0(6@78"/Users/Boris/Documents/DataStorageTestApp/iCadivi/Classes/iCadiviAppDelegate.m307116659#9#0#9#0#0"0(13@132"Expected specifier-qualifier-list before '*' token in /Users/Boris/Documents/DataStorageTestApp/iCadivi/Classes/iCadiviAppDelegate.h307118535#18446744073709551615#0#0(6@78"/Users/Boris/Documents/DataStorageTestApp/iCadivi/Classes/iCadiviAppDelegate.h307118531#31#0#31#0#0"0(6@78"/Users/Boris/Documents/DataStorageTestApp/iCadivi/Classes/iCadiviAppDelegate.h307118531#31#0#31#0#19"expected * before *0(0#0#78"/Users/Boris/Documents/DataStorageTestApp/iCadivi/Classes/iCadiviAppDelegate.m8619542144#2071"    cd /Users/Boris/Documents/DataStorageTestApp/iCadivi    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/Boris/Documents/DataStorageTestApp/iCadivi/build/iCadivi.build/Debug-iphonesimulator/iCadivi.build/iCadivi-generated-files.hmap -I/Users/Boris/Documents/DataStorageTestApp/iCadivi/build/iCadivi.build/Debug-iphonesimulator/iCadivi.build/iCadivi-own-target-headers.hmap -I/Users/Boris/Documents/DataStorageTestApp/iCadivi/build/iCadivi.build/Debug-iphonesimulator/iCadivi.build/iCadivi-all-target-headers.hmap -iquote /Users/Boris/Documents/DataStorageTestApp/iCadivi/build/iCadivi.build/Debug-iphonesimulator/iCadivi.build/iCadivi-project-headers.hmap -F/Users/Boris/Documents/DataStorageTestApp/iCadivi/build/Debug-iphonesimulator -I/Users/Boris/Documents/DataStorageTestApp/iCadivi/build/Debug-iphonesimulator/include -I/Users/Boris/Documents/DataStorageTestApp/iCadivi/build/iCadivi.build/Debug-iphonesimulator/iCadivi.build/DerivedSources/i386 -I/Users/Boris/Documents/DataStorageTestApp/iCadivi/build/iCadivi.build/Debug-iphonesimulator/iCadivi.build/DerivedSources -include /var/folders/6+/6+2T2fk4H8mtlkHrBUzgTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iCadivi_Prefix-heoxnzdxymfsqdbivtcolkrsegwa/iCadivi_Prefix.pch -c /Users/Boris/Documents/DataStorageTestApp/iCadivi/Classes/iCadiviAppDelegate.m -o /Users/Boris/Documents/DataStorageTestApp/iCadivi/build/iCadivi.build/Debug-iphonesimulator/iCadivi.build/Objects-normal/i386/iCadiviAppDelegate.o1#
+
+CCompileC build/iCadivi.build/Debug-iphonesimulator/iCadivi.build/Objects-normal/i386/main.o /Users/Boris/Documents/DataStorageTestApp/iCadivi/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s307118535.304477
+e307118535.488919
+r1
+xCompileC
+xbuild/iCadivi.build/Debug-iphonesimulator/iCadivi.build/Objects-normal/i386/main.o
+x/Users/Boris/Documents/DataStorageTestApp/iCadivi/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@64"Compile /Users/Boris/Documents/DataStorageTestApp/iCadivi/main.m307118535#307118535#0(0"0(0#0#56"/Users/Boris/Documents/DataStorageTestApp/iCadivi/main.m8619834400#2035"    cd /Users/Boris/Documents/DataStorageTestApp/iCadivi    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/Boris/Documents/DataStorageTestApp/iCadivi/build/iCadivi.build/Debug-iphonesimulator/iCadivi.build/iCadivi-generated-files.hmap -I/Users/Boris/Documents/DataStorageTestApp/iCadivi/build/iCadivi.build/Debug-iphonesimulator/iCadivi.build/iCadivi-own-target-headers.hmap -I/Users/Boris/Documents/DataStorageTestApp/iCadivi/build/iCadivi.build/Debug-iphonesimulator/iCadivi.build/iCadivi-all-target-headers.hmap -iquote /Users/Boris/Documents/DataStorageTestApp/iCadivi/build/iCadivi.build/Debug-iphonesimulator/iCadivi.build/iCadivi-project-headers.hmap -F/Users/Boris/Documents/DataStorageTestApp/iCadivi/build/Debug-iphonesimulator -I/Users/Boris/Documents/DataStorageTestApp/iCadivi/build/Debug-iphonesimulator/include -I/Users/Boris/Documents/DataStorageTestApp/iCadivi/build/iCadivi.build/Debug-iphonesimulator/iCadivi.build/DerivedSources/i386 -I/Users/Boris/Documents/DataStorageTestApp/iCadivi/build/iCadivi.build/Debug-iphonesimulator/iCadivi.build/DerivedSources -include /var/folders/6+/6+2T2fk4H8mtlkHrBUzgTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iCadivi_Prefix-heoxnzdxymfsqdbivtcolkrsegwa/iCadivi_Prefix.pch -c /Users/Boris/Documents/DataStorageTestApp/iCadivi/main.m -o /Users/Boris/Documents/DataStorageTestApp/iCadivi/build/iCadivi.build/Debug-iphonesimulator/iCadivi.build/Objects-normal/i386/main.o0#
+
+CCompileC build/iCadivi.build/Debug-iphonesimulator/iCadivi.build/Objects-normal/i386/mainView.o /Users/Boris/Documents/DataStorageTestApp/iCadivi/Classes/../mainView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/iCadivi.build/Debug-iphonesimulator/iCadivi.build/Objects-normal/i386/mainView.o /Users/Boris/Documents/DataStorageTestApp/iCadivi/mainView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/iCadivi.build/Debug-iphonesimulator/iCadivi.build/Objects-normal/i386/mainViewController.o /Users/Boris/Documents/DataStorageTestApp/iCadivi/Classes/mainViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s307118535.650718
+e307118535.718414
+r1
+xCompileC
+xbuild/iCadivi.build/Debug-iphonesimulator/iCadivi.build/Objects-normal/i386/mainViewController.o
+x/Users/Boris/Documents/DataStorageTestApp/iCadivi/Classes/mainViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@86"Compile /Users/Boris/Documents/DataStorageTestApp/iCadivi/Classes/mainViewController.m307118535#307118535#0(0"0(0#0#78"/Users/Boris/Documents/DataStorageTestApp/iCadivi/Classes/mainViewController.m8618929056#2071"    cd /Users/Boris/Documents/DataStorageTestApp/iCadivi    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/Boris/Documents/DataStorageTestApp/iCadivi/build/iCadivi.build/Debug-iphonesimulator/iCadivi.build/iCadivi-generated-files.hmap -I/Users/Boris/Documents/DataStorageTestApp/iCadivi/build/iCadivi.build/Debug-iphonesimulator/iCadivi.build/iCadivi-own-target-headers.hmap -I/Users/Boris/Documents/DataStorageTestApp/iCadivi/build/iCadivi.build/Debug-iphonesimulator/iCadivi.build/iCadivi-all-target-headers.hmap -iquote /Users/Boris/Documents/DataStorageTestApp/iCadivi/build/iCadivi.build/Debug-iphonesimulator/iCadivi.build/iCadivi-project-headers.hmap -F/Users/Boris/Documents/DataStorageTestApp/iCadivi/build/Debug-iphonesimulator -I/Users/Boris/Documents/DataStorageTestApp/iCadivi/build/Debug-iphonesimulator/include -I/Users/Boris/Documents/DataStorageTestApp/iCadivi/build/iCadivi.build/Debug-iphonesimulator/iCadivi.build/DerivedSources/i386 -I/Users/Boris/Documents/DataStorageTestApp/iCadivi/build/iCadivi.build/Debug-iphonesimulator/iCadivi.build/DerivedSources -include /var/folders/6+/6+2T2fk4H8mtlkHrBUzgTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iCadivi_Prefix-heoxnzdxymfsqdbivtcolkrsegwa/iCadivi_Prefix.pch -c /Users/Boris/Documents/DataStorageTestApp/iCadivi/Classes/mainViewController.m -o /Users/Boris/Documents/DataStorageTestApp/iCadivi/build/iCadivi.build/Debug-iphonesimulator/iCadivi.build/Objects-normal/i386/mainViewController.o0#
+
+CCompileC build/iCadivi.build/Debug-iphonesimulator/iCadivi.build/Objects-normal/i386/newCupo.o /Users/Boris/Documents/DataStorageTestApp/iCadivi/Classes/newCupo.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s307118535.489027
+e307118535.565775
+r1
+xCompileC
+xbuild/iCadivi.build/Debug-iphonesimulator/iCadivi.build/Objects-normal/i386/newCupo.o
+x/Users/Boris/Documents/DataStorageTestApp/iCadivi/Classes/newCupo.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@75"Compile /Users/Boris/Documents/DataStorageTestApp/iCadivi/Classes/newCupo.m307118535#307118535#0(0"0(0#0#67"/Users/Boris/Documents/DataStorageTestApp/iCadivi/Classes/newCupo.m8617995168#2049"    cd /Users/Boris/Documents/DataStorageTestApp/iCadivi    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/Boris/Documents/DataStorageTestApp/iCadivi/build/iCadivi.build/Debug-iphonesimulator/iCadivi.build/iCadivi-generated-files.hmap -I/Users/Boris/Documents/DataStorageTestApp/iCadivi/build/iCadivi.build/Debug-iphonesimulator/iCadivi.build/iCadivi-own-target-headers.hmap -I/Users/Boris/Documents/DataStorageTestApp/iCadivi/build/iCadivi.build/Debug-iphonesimulator/iCadivi.build/iCadivi-all-target-headers.hmap -iquote /Users/Boris/Documents/DataStorageTestApp/iCadivi/build/iCadivi.build/Debug-iphonesimulator/iCadivi.build/iCadivi-project-headers.hmap -F/Users/Boris/Documents/DataStorageTestApp/iCadivi/build/Debug-iphonesimulator -I/Users/Boris/Documents/DataStorageTestApp/iCadivi/build/Debug-iphonesimulator/include -I/Users/Boris/Documents/DataStorageTestApp/iCadivi/build/iCadivi.build/Debug-iphonesimulator/iCadivi.build/DerivedSources/i386 -I/Users/Boris/Documents/DataStorageTestApp/iCadivi/build/iCadivi.build/Debug-iphonesimulator/iCadivi.build/DerivedSources -include /var/folders/6+/6+2T2fk4H8mtlkHrBUzgTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iCadivi_Prefix-heoxnzdxymfsqdbivtcolkrsegwa/iCadivi_Prefix.pch -c /Users/Boris/Documents/DataStorageTestApp/iCadivi/Classes/newCupo.m -o /Users/Boris/Documents/DataStorageTestApp/iCadivi/build/iCadivi.build/Debug-iphonesimulator/iCadivi.build/Objects-normal/i386/newCupo.o0#
+
+CCompileC build/iCadivi.build/Debug-iphonesimulator/iCadivi.build/Objects-normal/i386/newExpense.o /Users/Boris/Documents/DataStorageTestApp/iCadivi/Classes/newExpense.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s307118535.531754
+e307118535.650619
+r1
+xCompileC
+xbuild/iCadivi.build/Debug-iphonesimulator/iCadivi.build/Objects-normal/i386/newExpense.o
+x/Users/Boris/Documents/DataStorageTestApp/iCadivi/Classes/newExpense.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@78"Compile /Users/Boris/Documents/DataStorageTestApp/iCadivi/Classes/newExpense.m307118535#307118535#0(0"0(0#0#70"/Users/Boris/Documents/DataStorageTestApp/iCadivi/Classes/newExpense.m8620654688#2055"    cd /Users/Boris/Documents/DataStorageTestApp/iCadivi    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/Boris/Documents/DataStorageTestApp/iCadivi/build/iCadivi.build/Debug-iphonesimulator/iCadivi.build/iCadivi-generated-files.hmap -I/Users/Boris/Documents/DataStorageTestApp/iCadivi/build/iCadivi.build/Debug-iphonesimulator/iCadivi.build/iCadivi-own-target-headers.hmap -I/Users/Boris/Documents/DataStorageTestApp/iCadivi/build/iCadivi.build/Debug-iphonesimulator/iCadivi.build/iCadivi-all-target-headers.hmap -iquote /Users/Boris/Documents/DataStorageTestApp/iCadivi/build/iCadivi.build/Debug-iphonesimulator/iCadivi.build/iCadivi-project-headers.hmap -F/Users/Boris/Documents/DataStorageTestApp/iCadivi/build/Debug-iphonesimulator -I/Users/Boris/Documents/DataStorageTestApp/iCadivi/build/Debug-iphonesimulator/include -I/Users/Boris/Documents/DataStorageTestApp/iCadivi/build/iCadivi.build/Debug-iphonesimulator/iCadivi.build/DerivedSources/i386 -I/Users/Boris/Documents/DataStorageTestApp/iCadivi/build/iCadivi.build/Debug-iphonesimulator/iCadivi.build/DerivedSources -include /var/folders/6+/6+2T2fk4H8mtlkHrBUzgTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iCadivi_Prefix-heoxnzdxymfsqdbivtcolkrsegwa/iCadivi_Prefix.pch -c /Users/Boris/Documents/DataStorageTestApp/iCadivi/Classes/newExpense.m -o /Users/Boris/Documents/DataStorageTestApp/iCadivi/build/iCadivi.build/Debug-iphonesimulator/iCadivi.build/Objects-normal/i386/newExpense.o0#
+
+CCompileXIB /Users/Boris/Documents/DataStorageTestApp/iCadivi/Classes/expendDetail.xib
+r0
+
+CCompileXIB /Users/Boris/Documents/DataStorageTestApp/iCadivi/Classes/expenseDetail.xib
+s307118532.820955
+e307118533.437549
+r1
+xCompileXIB
+x/Users/Boris/Documents/DataStorageTestApp/iCadivi/Classes/expenseDetail.xib
+lSLF07#2@36"CompileXIB Classes/expenseDetail.xib307118532#307118533#0(0"0(0#0#75"/Users/Boris/Documents/DataStorageTestApp/iCadivi/Classes/expenseDetail.xib8621345024#617"    cd /Users/Boris/Documents/DataStorageTestApp/iCadivi    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/Boris/Documents/DataStorageTestApp/iCadivi/build/Debug-iphonesimulator/iCadivi.app/expenseDetail.nib /Users/Boris/Documents/DataStorageTestApp/iCadivi/Classes/expenseDetail.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/Boris/Documents/DataStorageTestApp/iCadivi/Classes/mainViewController.xib
+s307118533.437650
+e307118533.807477
+r1
+xCompileXIB
+x/Users/Boris/Documents/DataStorageTestApp/iCadivi/Classes/mainViewController.xib
+lSLF07#2@41"CompileXIB Classes/mainViewController.xib307118533#307118533#0(0"0(0#0#80"/Users/Boris/Documents/DataStorageTestApp/iCadivi/Classes/mainViewController.xib8615578368#627"    cd /Users/Boris/Documents/DataStorageTestApp/iCadivi    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/Boris/Documents/DataStorageTestApp/iCadivi/build/Debug-iphonesimulator/iCadivi.app/mainViewController.nib /Users/Boris/Documents/DataStorageTestApp/iCadivi/Classes/mainViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/Boris/Documents/DataStorageTestApp/iCadivi/Classes/newCupo.xib
+s307118532.267426
+e307118532.820076
+r1
+xCompileXIB
+x/Users/Boris/Documents/DataStorageTestApp/iCadivi/Classes/newCupo.xib
+lSLF07#2@30"CompileXIB Classes/newCupo.xib307118532#307118532#0(0"0(0#0#69"/Users/Boris/Documents/DataStorageTestApp/iCadivi/Classes/newCupo.xib8621030816#605"    cd /Users/Boris/Documents/DataStorageTestApp/iCadivi    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/Boris/Documents/DataStorageTestApp/iCadivi/build/Debug-iphonesimulator/iCadivi.app/newCupo.nib /Users/Boris/Documents/DataStorageTestApp/iCadivi/Classes/newCupo.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/Boris/Documents/DataStorageTestApp/iCadivi/Classes/newExpense.xib
+s307118532.820160
+e307118533.455495
+r1
+xCompileXIB
+x/Users/Boris/Documents/DataStorageTestApp/iCadivi/Classes/newExpense.xib
+lSLF07#2@33"CompileXIB Classes/newExpense.xib307118532#307118533#0(0"0(0#0#72"/Users/Boris/Documents/DataStorageTestApp/iCadivi/Classes/newExpense.xib8621816544#611"    cd /Users/Boris/Documents/DataStorageTestApp/iCadivi    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/Boris/Documents/DataStorageTestApp/iCadivi/build/Debug-iphonesimulator/iCadivi.app/newExpense.nib /Users/Boris/Documents/DataStorageTestApp/iCadivi/Classes/newExpense.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/Boris/Documents/DataStorageTestApp/iCadivi/MainWindow.xib
+s307118532.224152
+e307118532.819921
+r1
+xCompileXIB
+x/Users/Boris/Documents/DataStorageTestApp/iCadivi/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib307118532#307118532#0(0"0(0#0#64"/Users/Boris/Documents/DataStorageTestApp/iCadivi/MainWindow.xib8621052192#603"    cd /Users/Boris/Documents/DataStorageTestApp/iCadivi    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/Boris/Documents/DataStorageTestApp/iCadivi/build/Debug-iphonesimulator/iCadivi.app/MainWindow.nib /Users/Boris/Documents/DataStorageTestApp/iCadivi/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/Boris/Documents/DataStorageTestApp/iCadivi/cupoDetail.xib
+r0
+
+CCompileXIB /Users/Boris/Documents/DataStorageTestApp/iCadivi/iCadivi.xcdatamodeld/cupoDetail.xib
+r0
+
+CCompileXIB /Users/Boris/Documents/DataStorageTestApp/iCadivi/iCadivi.xcdatamodeld/mainView.xib
+r0
+
+CCompileXIB /Users/Boris/Documents/DataStorageTestApp/iCadivi/mainView.xib
+r0
+
+CDataModelVersionCompile /Users/Boris/Documents/DataStorageTestApp/iCadivi/build/Debug-iphonesimulator/iCadivi.app/iCadivi.momd /Users/Boris/Documents/DataStorageTestApp/iCadivi/iCadivi.xcdatamodeld
+s307118535.303362
+e307118535.465041
+r1
+xDataModelVersionCompile
+x/Users/Boris/Documents/DataStorageTestApp/iCadivi/build/Debug-iphonesimulator/iCadivi.app/iCadivi.momd
+x/Users/Boris/Documents/DataStorageTestApp/iCadivi/iCadivi.xcdatamodeld
+lSLF07#2@97"DataModelVersionCompile build/Debug-iphonesimulator/iCadivi.app/iCadivi.momd iCadivi.xcdatamodeld307118535#307118535#0(0"0(0#0#70"/Users/Boris/Documents/DataStorageTestApp/iCadivi/iCadivi.xcdatamodeld8620865088#419"    cd /Users/Boris/Documents/DataStorageTestApp/iCadivi    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/momc -XD_MOMC_TARGET_VERSION=10.6 /Users/Boris/Documents/DataStorageTestApp/iCadivi/iCadivi.xcdatamodeld /Users/Boris/Documents/DataStorageTestApp/iCadivi/build/Debug-iphonesimulator/iCadivi.app/iCadivi.momd0#
+
+CGenerateDSYMFile /Users/Boris/Documents/DataStorageTestApp/iCadivi/build/Debug-iphonesimulator/iCadivi.app.dSYM /Users/Boris/Documents/DataStorageTestApp/iCadivi/build/Debug-iphonesimulator/iCadivi.app/iCadivi
+r0
+
+CLd /Users/Boris/Documents/DataStorageTestApp/iCadivi/build/Debug-iphonesimulator/iCadivi.app/iCadivi normal i386
+r0
+
+CProcessInfoPlistFile /Users/Boris/Documents/DataStorageTestApp/iCadivi/build/Debug-iphonesimulator/iCadivi.app/Info.plist iCadivi-Info.plist
+s307118532.211250
+e307118532.224052
+r1
+xProcessInfoPlistFile
+x/Users/Boris/Documents/DataStorageTestApp/iCadivi/build/Debug-iphonesimulator/iCadivi.app/Info.plist
+xiCadivi-Info.plist
+lSLF07#2@26"Process iCadivi-Info.plist307118532#307118532#0(0"0(0#0#68"/Users/Boris/Documents/DataStorageTestApp/iCadivi/iCadivi-Info.plist8620168096#512"    cd /Users/Boris/Documents/DataStorageTestApp/iCadivi    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility iCadivi-Info.plist -genpkginfo /Users/Boris/Documents/DataStorageTestApp/iCadivi/build/Debug-iphonesimulator/iCadivi.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/Boris/Documents/DataStorageTestApp/iCadivi/build/Debug-iphonesimulator/iCadivi.app/Info.plist0#
+
+CProcessPCH /var/folders/6+/6+2T2fk4H8mtlkHrBUzgTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iCadivi_Prefix-heoxnzdxymfsqdbivtcolkrsegwa/iCadivi_Prefix.pch.gch iCadivi_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s307118533.807673
+e307118535.303231
+r1
+xProcessPCH
+x/var/folders/6+/6+2T2fk4H8mtlkHrBUzgTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iCadivi_Prefix-heoxnzdxymfsqdbivtcolkrsegwa/iCadivi_Prefix.pch.gch
+xiCadivi_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@29"Precompile iCadivi_Prefix.pch307118533#307118535#0(0"0(0#0#68"/Users/Boris/Documents/DataStorageTestApp/iCadivi/iCadivi_Prefix.pch8618653728#1916"    cd /Users/Boris/Documents/DataStorageTestApp/iCadivi    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/Boris/Documents/DataStorageTestApp/iCadivi/build/iCadivi.build/Debug-iphonesimulator/iCadivi.build/iCadivi-generated-files.hmap -I/Users/Boris/Documents/DataStorageTestApp/iCadivi/build/iCadivi.build/Debug-iphonesimulator/iCadivi.build/iCadivi-own-target-headers.hmap -I/Users/Boris/Documents/DataStorageTestApp/iCadivi/build/iCadivi.build/Debug-iphonesimulator/iCadivi.build/iCadivi-all-target-headers.hmap -iquote /Users/Boris/Documents/DataStorageTestApp/iCadivi/build/iCadivi.build/Debug-iphonesimulator/iCadivi.build/iCadivi-project-headers.hmap -F/Users/Boris/Documents/DataStorageTestApp/iCadivi/build/Debug-iphonesimulator -I/Users/Boris/Documents/DataStorageTestApp/iCadivi/build/Debug-iphonesimulator/include -I/Users/Boris/Documents/DataStorageTestApp/iCadivi/build/iCadivi.build/Debug-iphonesimulator/iCadivi.build/DerivedSources/i386 -I/Users/Boris/Documents/DataStorageTestApp/iCadivi/build/iCadivi.build/Debug-iphonesimulator/iCadivi.build/DerivedSources -c /Users/Boris/Documents/DataStorageTestApp/iCadivi/iCadivi_Prefix.pch -o /var/folders/6+/6+2T2fk4H8mtlkHrBUzgTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iCadivi_Prefix-heoxnzdxymfsqdbivtcolkrsegwa/iCadivi_Prefix.pch.gch0#
+
+CTouch /Users/Boris/Documents/DataStorageTestApp/iCadivi/build/Debug-iphonesimulator/iCadivi.app
+r0
+

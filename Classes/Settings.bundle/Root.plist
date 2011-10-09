@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>StringsTable</key>
+	<string>Root</string>
+	<key>PreferenceSpecifiers</key>
+	<array>
+		<dict>
+			<key>Type</key>
+			<string>PSGroupSpecifier</string>
+			<key>Title</key>
+			<string>Ajustes</string>
+		</dict>
+		<dict>
+			<key>Type</key>
+			<string>PSMultiValueSpecifier</string>
+			<key>Title</key>
+			<string>Divisa</string>
+			<key>Key</key>
+			<string>currency</string>
+			<key>DefaultValue</key>
+			<string>USD</string>
+			<key>Values</key>
+			<array>
+				<string>USD</string>
+				<string>ANG</string>
+				<string>BHD</string>
+				<string>NPR</string>
+				<string>XOF</string>
+				<string>JMD</string>
+				<string>ILS</string>
+				<string>OMR</string>
+				<string>NAD</string>
+				<string>DZD</string>
+				<string>ISK</string>
+				<string>AUD</string>
+				<string>HNL</string>
+				<string>SKK</string>
+				<string>RON</string>
+				<string>TND</string>
+				<string>EUR</string>
+				<string>JOD</string>
+				<string>IDR</string>
+				<string>KES</string>
+				<string>SEK</string>
+				<string>MDL</string>
+				<string>QAR</string>
+				<string>PKR</string>
+				<string>BDT</string>
+				<string>CAD</string>
+				<string>BOB</string>
+				<string>BND</string>
+				<string>TRY</string>
+				<string>SLL</string>
+				<string>MKD</string>
+				<string>BWP</string>
+				<string>MXN</string>
+				<string>PEN</string>
+				<string>DOP</string>
+				<string>NZD</string>
+				<string>TZS</string>
+				<string>LTL</string>
+				<string>NOK</string>
+				<string>KRW</string>
+				<string>RUB</string>
+				<string>CHF</string>
+				<string>DKK</string>
+				<string>ARS</string>
+				<string>NIO</string>
+				<string>CZK</string>
+				<string>KYD</string>
+				<string>FJD</string>
+				<string>MVR</string>
+				<string>SAR</string>
+				<string>PHP</string>
+				<string>ZMK</string>
+				<string>CNY</string>
+				<string>LBP</string>
+				<string>LKR</string>
+				<string>GBP</string>
+				<string>UYU</string>
+				<string>TTD</string>
+				<string>LVL</string>
+				<string>VND</string>
+				<string>NGN</string>
+				<string>RSD</string>
+				<string>HKD</string>
+				<string>EGP</string>
+				<string>CRC</string>
+				<string>COP</string>
+				<string>PYG</string>
+				<string>UZS</string>
+				<string>INR</string>
+				<string>YER</string>
+				<string>JPY</string>
+				<string>KWD</string>
+				<string>KZT</string>
+				<string>HUF</string>
+				<string>SCR</string>
+				<string>MUR</string>
+				<string>BGN</string>
+				<string>MYR</string>
+				<string>AED</string>
+				<string>UGX</string>
+				<string>EEK</string>
+				<string>UAH</string>
+				<string>THB</string>
+				<string>ZAR</string>
+				<string>PGK</string>
+				<string>TWD</string>
+				<string>CLP</string>
+				<string>MAD</string>
+				<string>SVC</string>
+				<string>PLN</string>
+				<string>SGD</string>
+				<string>BRL</string>
+				<string>HRK</string>
+			</array>
+			<key>Titles</key>
+			<array>
+				<string>EEUU - Dólar</string>
+				<string>Antillas Holandesas - Florín</string>
+				<string>Bahrein - Dinar</string>
+				<string>Nepal - Rupia</string>
+				<string>Francos CFA</string>
+				<string>Jamaica - Dólar</string>
+				<string>Israel - Nuevo Shequel</string>
+				<string>Oman - Rial</string>
+				<string>Namibia - Dólar</string>
+				<string>Argelia - Dinar</string>
+				<string>Islandia - Corona</string>
+				<string>Australia - Dólar</string>
+				<string>Honduras - Lempira</string>
+				<string>Eslovaquia - Corona</string>
+				<string>Rumania - Leu</string>
+				<string>Túnez - Dinar</string>
+				<string>Euro</string>
+				<string>Jordania - Dinar</string>
+				<string>Indonesia - Rupia</string>
+				<string>Kenia - Chelín</string>
+				<string>Suecia - Corona</string>
+				<string>Moldavia - Leu</string>
+				<string>Qatar - Rial</string>
+				<string>Pakistan - Rupia</string>
+				<string>Bangladesh - Taka</string>
+				<string>Canada - Dólar</string>
+				<string>Bolivia - Boliviano</string>
+				<string>Brunei - Dólar</string>
+				<string>Turquía - Lira</string>
+				<string>Sierra Leona - Leone</string>
+				<string>Macedonia - Dinar</string>
+				<string>Botswana - Pula</string>
+				<string>México - Peso</string>
+				<string>Perú - Nuevo Sol</string>
+				<string>Rep. Dominicana -Peso</string>
+				<string>Nueva Zelanda - Dólar</string>
+				<string>Tanzania - Chelín</string>
+				<string>Ltuania - Litas</string>
+				<string>Noruega - Corona</string>
+				<string>Corea del Sur - Won</string>
+				<string>Rusia - Rublo</string>
+				<string>Suiza - Franco</string>
+				<string>Dinamarca - Korona</string>
+				<string>Argentina - Peso</string>
+				<string>Nicaragua - Córdoba Oro</string>
+				<string>Rep. Checa - Corona</string>
+				<string>Islas Cayman - Dólar</string>
+				<string>Fiji - Dólar</string>
+				<string>Maldivas - Rupia</string>
+				<string>Arabia Saudita - Riyal</string>
+				<string>Filipinas - Peso</string>
+				<string>Zambia - Kwacha</string>
+				<string>China - Yuan</string>
+				<string>Líbano - Libra</string>
+				<string>Sri Lanka - Rupia</string>
+				<string>Gran Bretaña - Libra Esterlina</string>
+				<string>Uruguay - Peso</string>
+				<string>Trinidad y Tobago - Dólar</string>
+				<string>Latvia - Lats</string>
+				<string>Vietnam - Dong</string>
+				<string>Nigeria - Naira</string>
+				<string>Serbia - Dinar</string>
+				<string>Hong - Kong - Dólar</string>
+				<string>Egipto - Libra</string>
+				<string>Costa Rica - Colòn</string>
+				<string>Colombia - Peso</string>
+				<string>Paraguay - Guaraní</string>
+				<string>Uzbekistan - Som</string>
+				<string>India - Rupia</string>
+				<string>Yemen - Rial</string>
+				<string>Japón - Yen</string>
+				<string>Kuwait - Dinar</string>
+				<string>Kazajistan - Tenge</string>
+				<string>Hungría - Florín</string>
+				<string>Seychelles - Rupia</string>
+				<string>Mauritania - Rupia</string>
+				<string>Bulgaria - Leva</string>
+				<string>Malasia - Ringgit</string>
+				<string>EAU - Dirham</string>
+				<string>Uganda - Chelín</string>
+				<string>Estonia - Corona</string>
+				<string>Ukrania - Grivnya</string>
+				<string>Tailandia - Baht</string>
+				<string>Suráfrica - Rand</string>
+				<string>Papúa Nva. Guinea - Kina</string>
+				<string>Taiwan - Dólar</string>
+				<string>Chile - Peso</string>
+				<string>Marruecos - Dirham</string>
+				<string>Salvador - Colón</string>
+				<string>Polonia - Zloty</string>
+				<string>Singapur - Dólar</string>
+				<string>Brasil - Real</string>
+				<string>Croacia - Corona</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Type</key>
+			<string>PSTextFieldSpecifier</string>
+			<key>Title</key>
+			<string>Email</string>
+			<key>Key</key>
+			<string>email</string>
+			<key>KeyboardType</key>
+			<string>EmailAddress</string>
+			<key>AutocapitalizationType</key>
+			<string>No</string>
+			<key>AutocorrectionType</key>
+			<string>No</string>
+		</dict>
+	</array>
+</dict>
+</plist>

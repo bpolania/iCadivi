@@ -1,0 +1,2 @@
+/Users/Boris/Documents/DataStorageTestApp/iCadivi/Classes/gasto.m:22: warning: property '_PK' requires method '-_PK' to be defined - use @synthesize, @dynamic or provide a method implementation
+/Users/Boris/Documents/DataStorageTestApp/iCadivi/Classes/gasto.m:22: warning: property '_PK' requires the method 'set_PK:' to be defined - use @synthesize, @dynamic or provide a method implementation

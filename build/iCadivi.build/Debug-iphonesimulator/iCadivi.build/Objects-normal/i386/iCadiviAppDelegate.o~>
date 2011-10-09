@@ -1,0 +1,2 @@
+/Users/bpolania/Downloads/iCadivi/Classes/iCadiviAppDelegate.m:267: warning: property 'selectedHelpTitle' requires method '-selectedHelpTitle' to be defined - use @synthesize, @dynamic or provide a method implementation
+/Users/bpolania/Downloads/iCadivi/Classes/iCadiviAppDelegate.m:267: warning: property 'selectedHelpTitle' requires the method 'setSelectedHelpTitle:' to be defined - use @synthesize, @dynamic or provide a method implementation
