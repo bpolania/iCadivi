@@ -1,0 +1,19 @@
+Welcome to iCadivi
+
+This is a Free iOS app I have in the iPhone AppStore.
+
+It's quite a simple development but it has some features a lot of people has asked me about:
+
+1) Tab Bar + Navigation Based application.
+
+2) Simple timed intro.
+
+3) Check for internet connectivity.
+
+This application is no longer available on the Appstore.
+
+The code is not commented.
+
+Feel free to use the code or contact me but be aware that the code is available as it is and there are no warranties at all about its proper functioning, so use it at your own risk.
+
+Boris Polania.
